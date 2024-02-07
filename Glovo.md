@@ -1,0 +1,2 @@
+- food delivery platform. Similar to [[Deliveroo]]
+-

@@ -1,0 +1,12 @@
+- List of patterns
+	- [[Hidden Revenue]]
+	- [[White Label]]
+	- [[Affiliation]]
+	- Customer Loyaltytr
+	  collapsed:: true
+		- {{embed [[Customer Loyalty]]}}
+	- [[Cross Selling]]
+	- [[Two-sided Market]]
+	- [[Mass Customization]]
+		- [[Netflix]]
+	- [[Integrator]]

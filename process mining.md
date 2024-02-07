@@ -1,0 +1,15 @@
+- Discovery
+	- Transparency
+	- Extract from event logs
+		- Digital Twins
+	- Generates a **process model**
+- Monitoring
+	- Conformance check
+		- Differs Process Model and Reference Model
+	- Root causes
+	- Compliance
+		- GDPR
+- Optimization
+	- Simulation
+		- How changer they are considering, can affect KPIs
+	-

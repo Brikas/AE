@@ -1,0 +1,1 @@
+- Deliveroo is a platform providing an online meal ordering and payment system as well as a delivery service (Rechtbank Amsterdam, 2019: par. 2.1.).

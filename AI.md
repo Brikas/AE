@@ -1,0 +1,44 @@
+- ### Premade prompt contexts
+	- #### General
+		- My interests
+			- Coding / Programming
+				- Very passionate
+				- Code in Python, Dart, Java, CSS & JS
+				- Like learning languages.
+				- I am learning App development with Flutter
+				- I like to host hackathons and code with other people, discuss about it.
+				- Projects
+					- Taught AI to play Pong.
+					- Web scraper tool that creates a similar Youtube playlist for a given one.
+					- Predicting real estate prices in Denmark using Neural networks and Random Forest ML algorithms
+			- Start-ups
+				- I want to be a founder of a tech startup.
+				- Interested in innovation
+			- Music
+				- I like rock music and often go to gig around Copenhagen and Malmo.
+				- I also like alternative indie music, such as Alt-J, Tame Impala
+			- Travelling
+				- I am looking forward this summer
+					- Road trip around Europe
+					- Trip to Chalupy
+					- Trip to Bulgaria
+			- Films
+				- Used to be a filmmaker, but moved on from it
+				- Really enjoy watching films and discussing about it.
+			- Organizing Events & Volunteering
+				- Projects
+					- I volunteered when I was in high school in Interact club
+						- Organized various events.
+					- I currently volunteer at Rotaract Club of Copenhagen
+						- We organize and host charity events.
+						- Push each other in the club to grow professionally by hosting talks.
+					- Recently volunteered in Presidents Summit
+						- Met amazing volunteer team
+						- Networked with great professionals.
+		- My education
+	- #### Tailored
+		- Special for dorm
+			- Interestes
+				- Cooking
+					- I love cooking dishes from Lithuanian cousine and inviting friends over. They are always amazed the the Lithuanian pink soup or Zeppelins.
+				-
