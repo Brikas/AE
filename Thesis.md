@@ -2,20 +2,16 @@
   background-color:: blue
 	- [[Contents]]
 	- [WIP Google Doc](https://docs.google.com/document/d/1MrrvSvmVxHmMBS78Jw_h9JOXAhqkYpm9N8kF_gWiXLo/edit?fbclid=IwAR3_r96rBO2t0soGO8bu-5-AMkeyzPF8Lu6vbZnGQwkAV_L8F78X2qdsewg).
-- For Elias (last updated: [[2024-01-29]])
+	- LEFT OFF #2024-02-07
+		- ((65c3eb04-fd08-4837-9113-70e728a9f711))
+- For Elias (last updated: [[2024-02-07]])
   background-color:: blue
-  collapsed:: true
-	- Relating to Idea 1
-		- Potential things to study
-		  collapsed:: true
-			- {{embed ((65b0154b-ad7e-48bc-90a2-aa80e7fb6f64))}}
-		- Mapped papers. (C is citated count)
-		  collapsed:: true
-			- {{embed ((65b82e8d-4f4d-4584-b374-e7b30764b550))}}
-	- For idea 3
-		- ((65b82c7f-8b3c-4312-9426-02134d0e04e0)) (very random finding)
+	- ((65c3f123-26dd-4fb9-899f-839c9376ce1a))
+		- [[Kano Model Mapping]]
 	- Old
 	  collapsed:: true
+		- For idea 3
+			- ((65b82c7f-8b3c-4312-9426-02134d0e04e0)) (very random finding)
 		- ((65b69b6e-1907-40b4-92b8-422015faac08))
 			- Not explored yet, just maped
 		- [[conjoint analysis]]
@@ -55,6 +51,7 @@
 			- NPS Software
 			- Customer Surveys
 	- Related
+	  collapsed:: true
 		- Testing [[MOM]] questions
 		- Topics
 			- [[market research]]
@@ -73,6 +70,13 @@
 		  collapsed:: true
 			- {{embed ((659da6d5-e9f8-4c13-80a9-d714c65cffb9))}}
 			- {{embed ((65a6ca4a-fa9b-4dac-830e-7e5b881d8931))}}
+	- **Methodology**
+	  id:: 65c3f123-26dd-4fb9-899f-839c9376ce1a
+		- TODO [[Focus Groups]]
+		- TODO [[conjoint analysis]]
+		- DOING [[Kano Model Mapping]]
+			- LEFT OFF
+				- Kano Analysis (Kano Survey)
 	- Resources
 	  collapsed:: true
 		- TODO GPT revolution and digital entrepreneurial intentions
@@ -90,6 +94,19 @@
 					- including downward-sloping demand curves and state dependence
 		- [[SimPy]] - discrete event simulation for Python
 		- Potential
+			- Karolina's Thesis
+			  collapsed:: true
+				- [PDF File](G:/My Drive/CBS/Thesis/1645570_Master_Thesis_Lambru_Kaszkowiak_Khalid_2023.pdf)
+				- [Online Link](https://research.cbs.dk/en/studentProjects/improving-user-satisfaction-in-university-affiliated-incubators-a)
+				- Methodology
+				  collapsed:: true
+					- [[Kano Model Mapping]]
+						- Applying the Kano model to the quantitative data collected from the survey to **categorize different types of customer needs** and prioritize these factors in the design of startup incubators. Develop an instrument based on Excel formula to assign attributes and calculate Satisfaction Score and Dissatisfaction Score.
+						- [[Kano Model Mapping]] #embed-node
+						  collapsed:: true
+							- {{embed [[Kano Model Mapping]]}}
+					-
+				-
 			- Horton (2023) conducts economic experiments using GPT-3
 			  collapsed:: true
 				- From ((65af92bb-da88-45b8-90af-ca5770651146))
@@ -176,91 +193,9 @@
 	  collapsed:: true
 		- Check out ((65b82c21-3cfd-4282-845b-742a33c483fa)) #new
 		  id:: 65b82c7f-8b3c-4312-9426-02134d0e04e0
-- Proposal
-	- Stuffs
-	  collapsed:: true
-		- Hi Daniel,
-		- **Project Proposal** - LLMs driven simulations x market research
-		- We have discussed the topic last week and it seemed that we are quite align on the topic, direction and potential methods of study. So this email will include a summary of what we discussed, some additional input, abstract roadmap we have and next steps.
-		- Summary
-			- **Theme**: Testing the potential of systematically applying large language models to simulate market research activities.
-			- **Why research this?**:
-			  collapsed:: true
-				- We realize that LLM training data includes product, features reviews, feedback.
-				- We also realize that LLM agents can be given a role, which as existing academic research suggests, shows well documented economic behavior.
-					- ([Brand et. al., 2023)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4395751) - Using GPT for Market Research
-					- [(Park et. al., 2023)](https://dl.acm.org/doi/10.1145/3586183.3606763) - Generative Agents: Interactive Simulacra of Human Behavior
-				- From our DM program we learned that some practices of innovation, market research, entrepreneurship have monetary and time costs.
-				- We are interested in the potential of LLM agents to simulate market research activities.
-				- A successful outcome can have almost immediate practical implications in assistant innovation, entrepreneurship, marketing practices.
-			- **Concept and roadmap**
-				- Find and select a market research system/method.
-				- Find a way to systematically encode a human persona into a text prompt.
-				- Find a way to systematically encode a representation of a feature, product, etc. into a text prompt
-				- Develop a systematic method to simulate a market research practice with LLM's
-				- Find or create real market research data
-				- Benchmark simulated method with real data
-				- Draw conclusions and understanding about the use of LLM's to simulate market research
-				- Some notes
-					- We do not train our own language model. We utilize existing, highly rated LLM's
-					- We do not use LLM's as 'helpful assistants', we use them as agents with inscribed personas that virtually participate in market research activity
-			- **Why us?**
-				- As a team, me and Elias have the cross-disciplinary capabilities in data science, entrepreneurship and market research.
-				- We have already experimented with open-source models, OpenAI API interfaces and are very comfortable using LLM's with programming languages.
-				- We have plenty of industry connection with various market research practitioners and have the entrepreneurial fervor to build a convincing case out of it.
-			- **Potential LLMs choices**
-				- Open-source, such as Mistral 8x7b
-				- Proprietary, such as Mistral Medium, GPT3.5 or GPT4 (depends on budget)
-			- **Potential Market Research activity integrations**
-				- Focus groups
-				- Conjoint analyses
-				- Simpler alternative: Feedback on products, services & features
-			- **Potential empirical methods / ways to benchmark**
-				- Conducting our own focus groups (or conjoint analyses)
-				  logseq.order-list-type:: number
-					- This seems quite realistic.
-					- Our research can have great potential for product managers & startup entrepreneurs
-					- We are ready to CSE (Copenhagen School of Entrepreneurship), DTU Skylab and talk with connections directly, to see if we could collaborate on a focus group.
-					- Potentially we can even make a few.
-				- Online data
-				  logseq.order-list-type:: number
-					- 1000 IRL people with characteristics and answers
-					- Real people Social Media content to build agent profiles
-					- Public product feedback on site lite product hunt, reddit, hacker news.
-				- Existing market research with replication data
-				  logseq.order-list-type:: number
-					- Query "focus group", "market research", "conjoint analysis"
-					- Search on Google Dataset Search, Kaggle, UCI Machine Learning Repository
-					- See if we can replicate results with an LLM simulation
-				- Manual Assessment
-				  logseq.order-list-type:: number
-					- Interview a professional(s) in the field that does market research.
-						- Understanding requirements, challenges.
-					- Create a simulated version
-					- Use the same professional(s) as a tester for the solution and ask for an evaluation.
-			- **Acknowledged risks and challenges**
-				- Highly dynamic front of innovation, where existing research may be limited.
-				- Highly dynamic front of innovation, where the utility of our discoveries/knowledge may diminish fast.
-				- Outputs of the LLM's can be unexpectedly prompt sensitive, which creates a potential pitfalls and can impact consistency
-				- It might be difficult to reduce/isolate the number of general variables.
-				- We are aware that due to the cross-disciplinary approach, the bachelor project may be required by CBS standards and your study interests to pivot heavier on a particular discipline (we had this feedback from another professor, yet we are unsure how this affects us)
-			- **Next Steps (2-3 weeks)**
-				- Explore additional existing research of LLMs around this topic
-				- Select and revise a market research method
-				- Select way to gather real data
-				- Ideate (or select) the techniques/frameworks of encoding a human persona into a text prompt.
-				- Ideate (or select) the techniques/frameworks of encoding a representation of a feature, product, etc. into a text prompt
-				- Ideate on the overall system of simulating the market research activity
-				- Align with you again (or throughout), to conclude progress on methodology and determine next steps
-	- SWOT
-		- Strenghts
-			- We are qui
-		- Weaknesses
-			-
-		- Opportunities
-		- Threats
 - Consultations
   background-color:: purple
+  collapsed:: true
 	- Daniel
 		- [[3_Daniel]]
 		  collapsed:: true
