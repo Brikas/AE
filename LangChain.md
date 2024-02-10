@@ -1,0 +1,3 @@
+- > Langchain provides a simple interface for interacting with embedding and LLM APIs from various AI providers, coordinating multiple prompts to an LLM
+	- [src](((65ace994-4d0d-4cd7-a4f2-13228d0de90d)))
+-

@@ -1,0 +1,4 @@
+- **HOLACRACY**: The most widely adopted system of self-management, developed in 2007 by Brian Robertson. Authority and decision making are distributed among fluid “circles” (defined below) throughout the organization, and governance is spelled out in a complex constitution.
+- Related
+	- [[Podularity]]
+	- [[Self-managing systems]]

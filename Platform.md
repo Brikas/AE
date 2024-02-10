@@ -15,6 +15,7 @@ title:: Platform
 	- [[Multi-Homing]]
 	- [[Feedback loops]]
 	- [[Nudging]]
+	- [[Digital Platform Strategies]]
 - Definition
 	- ![image.png](../assets/image_1704831682104_0.png)
 -

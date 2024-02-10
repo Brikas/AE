@@ -1,0 +1,4 @@
+- Related
+	- [[Holacracy]]
+	- [[Leaderless organization]]
+	- [[Podularity]]

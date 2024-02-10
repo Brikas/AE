@@ -1,0 +1,4 @@
+- Related
+	- [[Embedding Model]]
+- Embeddings look like an array of numbers, with similar phrases having closer numbers. In a simplified example, the embedding for the word animal could be `[1,2,3]`, a dog could be `[1,2,4]`, and coffee could be `[5,8,1]`. You can see that the embeddings for animal and dog are closer together than the unrelated word coffee.
+-
