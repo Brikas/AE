@@ -45,7 +45,6 @@
 - ## [[BP Exam]]
   collapsed:: true
 - ## Topics
-  collapsed:: true
 	- *Analyses*
 	  background-color:: purple
 	  collapsed:: true
@@ -143,7 +142,6 @@
 	  collapsed:: true
 		- ◽ **Pretotyping**
 		  id:: 650c3f79-6032-4d72-80e0-9a3e9f0e43dc
-		  collapsed:: true
 			- 🔸🔸🔸 [Pretotype it Ebook.pdf](../assets/Pretotype_it_v2_1695302205823_0.pdf)
 			  collapsed:: true
 				-

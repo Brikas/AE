@@ -6,8 +6,7 @@
 		- ((65c3eb04-fd08-4837-9113-70e728a9f711))
 - For Elias (last updated: [[2024-02-07]])
   background-color:: blue
-	- ((65c3f123-26dd-4fb9-899f-839c9376ce1a))
-		- [[Kano Model Mapping]]
+	- {{embed ((65c3f123-26dd-4fb9-899f-839c9376ce1a))}}
 	- Old
 	  collapsed:: true
 		- For idea 3
@@ -33,8 +32,13 @@
 		- LLMs adopting personas to do market research
 	- RQ
 	  collapsed:: true
+		- How LLM's can be used to do market research?
+		- Reprensentable digital personas
+		- To what extent can LLM driven digital personas replace real people in market research?
+			- To demonstrate the extent LLM driven digital personas can match real people in market research.
 		- POPULAR USE CASES of [[conjoint analysis]] ([src: foooter](https://www.qualtrics.com/design-xm/conjoint-analysis/))
 		  id:: 65b69b6e-1907-40b4-92b8-422015faac08
+		  collapsed:: true
 			- 🔸 [Market Research](https://www.qualtrics.com/market-research/)
 			- 🔸 [Text Analysis](https://www.qualtrics.com/iq/text-iq/)
 			- [Voice of Customer](https://www.qualtrics.com/customer-experience/voice-of-customer/)
@@ -72,11 +76,35 @@
 			- {{embed ((65a6ca4a-fa9b-4dac-830e-7e5b881d8931))}}
 	- **Methodology**
 	  id:: 65c3f123-26dd-4fb9-899f-839c9376ce1a
-		- TODO [[Focus Groups]]
-		- TODO [[conjoint analysis]]
-		- DOING [[Kano Model Mapping]]
-			- LEFT OFF
-				- Kano Analysis (Kano Survey)
+		- Quantitative
+		  background-color:: green
+			- ✔ [[Kano Model Mapping]]
+			- Observational Studies
+			- Surveys
+			- *Rejected*
+			  collapsed:: true
+				- Interviews
+		- Qualitative
+		  background-color:: green
+			- DOING [[Focus Groups]]
+			- LATER Delphi Method
+			- *Rejected*
+			  collapsed:: true
+				- A/B Testing
+				-
+		- Unknown / Ideas
+		  background-color:: green
+			- TODO Voice of the Customer (VOC)
+			- TODO Monadic Testing
+			  collapsed:: true
+				- Sequential Monadic Testing
+				- Protomonadic Testing
+			- TODO [[conjoint analysis]]
+			- LATER MaxDiff Analysis (Maximum Difference Scaling)
+			- *Rejected*
+			  collapsed:: true
+				- Jobs-to-be-Done (JTBD)
+				- Ethnographic Research
 	- Resources
 	  collapsed:: true
 		- TODO GPT revolution and digital entrepreneurial intentions

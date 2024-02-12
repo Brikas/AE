@@ -91,7 +91,6 @@
 				  collapsed:: true
 					- **Teams are the structure.**
 					  background-color:: blue
-					  collapsed:: true
 						- Within them, individual “roles” are collectively defined and assigned to accomplish the work.
 						- In holacracy, they’re “circles”; in podularity, “pods”; at [[Valve]], “cabals”; and at many companies, simply “teams.”
 						- After Zappos implemented holacracy, 150 departmental units evolved into 500 circles.
@@ -102,7 +101,6 @@
 							- People usually hold multiple roles, on various teams
 					- **Teams design and govern themselves**
 					  background-color:: blue
-					  collapsed:: true
 						- while nested within a larger structure.
 						- organizations ratify a **constitution**—a living document
 							- The constitution doesn’t say how people should do their tasks.
@@ -115,12 +113,10 @@
 						  id:: 65c53b4f-1c40-4c5e-9a96-8bee03b1522b
 							- [[Colleague Letters of Understanding]] ([[CLOUs]]) @ [[Morning Star]]
 								- Let your colleagues know **what they can count on you to accomplish**.
-								  collapsed:: true
 									- essentially contracts that articulate employees’ work commitments to the organization—like annual performance previews
 								- ((65c53dee-8b90-4705-9631-31a7356e1f48))
 					- **Leadership is contextual.**
 					  background-color:: blue
-					  collapsed:: true
 						- Leadership is distributed **among roles**, not individuals
 						- Responsibilities shift according to fit and as the work changes
 						- Enterprise software such as [[GlassFrog]] or [[holaSpirit]] is typically used
@@ -258,7 +254,6 @@
 						- **Question**: Should they keep hiring [[T-shaped employees]]?
 						-
 				- ((65c3e266-73af-459e-80ab-29d86ac30e43))
-				  collapsed:: true
 					- ((65c3e266-98d0-49db-84fb-fb3e7355b594))
 						- {{embed ((65c51ac3-1098-4d60-b200-24a50c2ae041))}}
 						- {{embed ((65c51c44-08b5-4f9b-8262-47777f20ad45))}}
@@ -282,19 +277,16 @@
 					- Valve stack-ranked its employees - but all ranking was done by peers.
 					  collapsed:: true
 						- Detailed
-						  collapsed:: true
 							- > Employees were first ranked internally within cabals by those with whom they chose to work, based on their technical ability, productivity, contribution to the operation of the group, and the successful development of the resulting product. The cabal peer rankings were then aggregated and calibrated by committees of peers across cabals to produce a company-wide ranking upon which compensation was based.
 					- From theory
 						- {{embed ((65c53b4f-1c40-4c5e-9a96-8bee03b1522b))}}
 			- **Hiring the Right People and Keeping Them Forever**
 			  id:: 65c51427-2028-40f2-9187-c6f5bab9064c
-			  collapsed:: true
 				- How to find these incredibly talented people, **convince them to come**, and then **convince them to stay together** over time? #[[hiring]] #[[employee retention]] #[[Talent Acquisition]] #[[team formation]]
 				  id:: 65c50826-31b5-42ed-815b-5ca3b88ad70e
 			- The hardware [[cabal]].
 			- **Leaderless Management** and Hardware prod
 			  id:: 65c51ac3-1098-4d60-b200-24a50c2ae041
-			  collapsed:: true
 				- Would the Valve operating system be compatible with hardware production?
 					- Detailed Quotes
 					  collapsed:: true
@@ -311,7 +303,6 @@
 				- Forcing a decision when not all organization might agree.
 				  id:: 65c51cba-44a0-4cb4-915b-fe1d05d67f67
 		- [[To learn]]
-		  collapsed:: true
 			- About providing freedom to fail.
 			- ((65c50826-31b5-42ed-815b-5ca3b88ad70e))
 			- ((65c51133-65d1-4e18-a379-83d85b036caf))
