@@ -76,6 +76,7 @@
 			- {{embed ((65a6ca4a-fa9b-4dac-830e-7e5b881d8931))}}
 	- **Methodology**
 	  id:: 65c3f123-26dd-4fb9-899f-839c9376ce1a
+	  collapsed:: true
 		- Quantitative
 		  background-color:: green
 			- ✔ [[Kano Model Mapping]]

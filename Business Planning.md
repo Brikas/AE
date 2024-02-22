@@ -69,7 +69,6 @@
 	- *Fits*
 	  background-color:: purple
 	  id:: 650c4707-858c-4b66-ac76-c58db6e91f2e
-	  collapsed:: true
 		- *Meta*
 		  collapsed:: true
 			- ![image.png](../assets/image_1703008862254_0.png)

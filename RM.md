@@ -103,7 +103,8 @@
 			- Solving the solution
 				- Potential
 					- Legislation/regulation
-- Lecture 3
+- Lecture 3. Identify assumptions, identify domain. Most common methods for domain.
+  collapsed:: true
 	- Let's assume and then test
 	- Let's not assume and then test
 	- Thought experiment - **Call**: What are you voting for?
@@ -213,6 +214,177 @@
 		- Yes
 		  logseq.order-list-type:: number
 	-
+- Lecture 6.
+  collapsed:: true
+	- Freelist interviewing
+		- *Deceptively simple method*
+		- Ask a series of people to list example of a thing
+			- List all the items you got and list them by frequency.
+		- Fruits
+			- Its not a factual sheet
+			- Its what culturally fruit means?
+		- Lumpers and Splitters
+			- There are just two types. There are no better or worse.
+		- You always have to justify it.
+		- "Would you please take a minute, read your a list and thing if anything you missed relating to each word"
+		- Do not. as *List what you think of when I say drink"
+			- say "List all the drinks you an think of"
+	- Writing excersize
+		- Beer
+		  logseq.order-list-type:: number
+		- Kvass
+		  logseq.order-list-type:: number
+		- Kids champagne
+		  logseq.order-list-type:: number
+		- Water
+		  logseq.order-list-type:: number
+		- Electrolyte (blue) drink
+		  logseq.order-list-type:: number
+		- Cola
+		  logseq.order-list-type:: number
+		- Cow Milk
+		  logseq.order-list-type:: number
+		- Goat Milk
+		  logseq.order-list-type:: number
+		- Orange Juice
+		  logseq.order-list-type:: number
+		- Lemon Juice
+		  logseq.order-list-type:: number
+		- Champagne
+		  logseq.order-list-type:: number
+		- Whiskey
+		  logseq.order-list-type:: number
+		- Cider
+		  logseq.order-list-type:: number
+		- Lemonade
+		  logseq.order-list-type:: number
+		- Grape Juice
+		  logseq.order-list-type:: number
+		- Wine
+		  logseq.order-list-type:: number
+		- Liquer
+		  logseq.order-list-type:: number
+		- Sprite
+		  logseq.order-list-type:: number
+		- Fanta
+		  logseq.order-list-type:: number
+		- Pineapple juice
+		  logseq.order-list-type:: number
+		- Tomato juice
+		  logseq.order-list-type:: number
+		- Squash
+		  logseq.order-list-type:: number
+		- Apple juice
+		  logseq.order-list-type:: number
+		- Energy Drinks
+		  logseq.order-list-type:: number
+		- Tea
+		  logseq.order-list-type:: number
+		- Pina Colada
+		  logseq.order-list-type:: number
+		- Mochito
+		  logseq.order-list-type:: number
+		- Aperol Spritz
+		  logseq.order-list-type:: number
+		- White russian
+		  logseq.order-list-type:: number
+		- Cuba libre
+		  logseq.order-list-type:: number
+		- Rum
+		  logseq.order-list-type:: number
+		- Long island
+		  logseq.order-list-type:: number
+		- coconut water
+		  logseq.order-list-type:: number
+		- Snaps
+		  logseq.order-list-type:: number
+		- Cocao drink
+		  logseq.order-list-type:: number
+		-
+- Lecture 7
+	- Participational observation (Observational research)
+		- Observational spectrum
+			- Non-participation
+			  logseq.order-list-type:: number
+			- Passive
+			  logseq.order-list-type:: number
+			- Moderate
+			  logseq.order-list-type:: number
+			- Active
+			  logseq.order-list-type:: number
+			- Complete
+			  logseq.order-list-type:: number
+		- Starting points of discussion - **How does Participational observation differ from normal life?**
+			- Dual purpose
+			- Explicit Awareness
+				- Usually if nobody asks you to be aware, you are not
+				- But when you do this kind og work, you are paying explicit awareness to these things
+			- Insider - outsider
+				- Anthropoloigist is never fully in never fully out
+			- Wide-angle lens
+			- Record keeper
+				- Your data is the notes that you take.
+		- Stuff
+			- Timeline
+			- Order of events (sequence)
+			- Perspective
+				- Depends on who u are.
+			- Details
+			- (Insertion of self)
+		- Tips
+			- Be very detailed
+			- Start just jotting down points. Then later make them into proper sentences.
+			- Don't describe only about yourself. But also don't fully remove yourself.
+			- Count have many people are in the room
+			- Situate people in spaceFF
+				- How big is the room?
+				- How many seats?
+			- What people are wearing?
+		- Description-Question matrix
+			- Idea generator for observations.
+			- Choose some based on what you are studying?
+		- Encoding the observer
+			- First peron
+			- Situate
+				- What access you are given?
+				- How do other people treat you?
+			- Try to understand how they fit and how they are seen
+				- Ask how do others perceive them.
+					- How do they describe them?
+				- How does that help them?
+		- Questions
+			- How do they make a living?
+			- Can someone be addicted and be in love?
+		- Utility
+			- A detailed notes allows studying hard questions like "can heroin addicts love?"
+		- **Excersize**: What has happened in this room?
+			- Teacher was treaching by talking about participational observations. During his teaching he was asking whether we understand multiple times. Everytime he took silence for an affirmative answer. During his teaching he moving around the stage and sometimes pointing to the board.
+			- In the meantime, students were typing on their computers. Students were mostly silent, but sometimes asked questions when teacher vocally prompted them.
+			- Teacher gave an excersize to do. Students started silently chatting at the beggining, then upon reminded that the excersize is individual, they chatted less, only with occsional whispered transactions.
+			- Victoria opened a pepsi max can.
+			- As the time went the chatter increased in volume.
+		- Excersize 2:
+		  collapsed:: true
+			- Dumstering
+				- > She uses a loading pallet as a ladder to climb into the dumpster. Dressed in her clean green and yellow striped angora sweater and a pair of nicely tailored dark slacks, she dons rubber gloves and immediately gets to work while Carter, eager to start hitting licks with the approach of nightfall, waits impatiently in the Chinook.
+				  While shifting through the garbage, she tells me, “I’ve gotten so much shit out of here, Jeff. Last week, I found meat—ten little-bitty cans of the pretty, pretty golden hams. I gave them to Hank to sell.”
+				  Tonight’s garbage is bountiful. She pulls out a large plastic bucket of Charms lollipops, several flats of Otis Spunkmeyer wild blueberry muffins, one flat of poppyseed muffins, a flat of Hawaiian Punch Tropical Fruit flavored soda, a half-empty extra-large bottle of Excedrin, several cans of Lysol, a box of lightbulbs, an enormous bag of chocolate chips, and a bag of pistachio nuts.
+			- **Hustling**: Carter and Tina engage in hustling, which involves a mix of opportunistic theft (or "licks"), low-level drug dealing, and other activities like selling clothing acquired through credit card fraud (pp. 5–7, 11–12).
+				- > When full darkness finally sets in, Carter drives us to the waterfront where the most active warehouses are located. Spying an open shipping container, he jerks the Chinook to a stop and runs to check it but returns shaking his head, “Empty.” He repeats this two more times before he decides that the port must be closed this week because of some change in international shipping patterns.
+			- **Petty theft and shoplifting**: These are recurring strategies for obtaining goods to sell or for personal use. For example, Carter shoplifts T-shirts (p. 8) and plans theft from construction sites (pp. 20–21, 30).
+				- > Energized both by crack and by the pleasure of being back out on the street with Tina, Carter talks nonstop. He quickly changes the subject away from his failed attempt to “go clean” and shows me two “I San Francisco” t-shirts that he has just shoplifted in the Fisherman’s Wharf tourist district.
+			- **Pawning stolen materials**: The couple earns money by selling stolen items, such as plywood or items from construction sites, to secondhand stores or scrapyards for cash (pp. 14, 21–22, 30).
+				- > They are planning another lick because they have had no luck today, and they have only three dollars remaining from the five sheets of plywood they sold yesterday to the used lumber depot.
+			- **Panhandling and Window washing**: Tina engages in panhandling and washing car windshields for spare change, which contribute to their income (pp. 9–10, 15).
+				- > They figure they can persuade Sal to sell them a bag “two dollars short,” so they need only four more dollars “to get well.” Tina agrees to hustle up that amount washing windshields, but they start arguing when Carter insists on “holding the four dollars” they already have until she returns.
+			- **Credit card fraud**: The pair uses stolen credit cards to purchase items for resale or personal use (p. 5).
+				-
+			- **Recycling**: Collecting cardboard, cans, and other recyclables can be resold for small amounts of money (p. 9).
+			- **Benefiting from the kindness of strangers**: Occasionally they receive money for small acts of assistance, such as helping to jump-start a car (pp. 4–5).
+			- **Temporary employment**: There are short stints of legal employment, such as Tina working part-time at Kentucky Fried Chicken (pp. 27–28).
+			- **Drug sales**: While Tina's son Ricky provides Tina with a small quantity of crack to sell, Carter resists engaging more deeply in drug sales, fearing the associated risks and potential for violence (pp. 25–26).
+			- **Bin-diving/Dumpster diving**: Searching through dumpsters sometimes yields valuable items that can be used or sold (p. 9).
+			- **Credit from drug dealers**: Tina manages to acquire drugs on 'credit,' implying some trust or arrangement with her suppliers, allowing them to maintain their habit and possibly resell some portion (pp. 12–13).
 - Exam
   collapsed:: true
 	- Task

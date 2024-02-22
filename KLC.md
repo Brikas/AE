@@ -35,6 +35,19 @@
 		- How does that relate to the problem/decision?
 		  background-color:: yellow
 		- Other tips
+- Things I learned
+	- [[Transparency Paradox]]
+	  collapsed:: true
+		- About Transparency Paradox #embed-node
+		  collapsed:: true
+			- {{embed ((65d24cb0-6568-4571-8dd5-cdc3b9b60380))}}
+		- **Example**: At my work [[Thomas Mygdal]] is in marketing teams slack channels.
+	- [[Paradox of consequences]]
+	  collapsed:: true
+		- Paradox of consequences #embed-node
+		  collapsed:: true
+			- {{embed ((65d264d1-37b2-44dd-ba4e-d4993ff4c347))}}
+		-
 - **Lectures**
 	- L2: [[Holacracy]]: **[[Valve]]** case #Inspiration
 	  background-color:: gray
@@ -91,6 +104,7 @@
 				  collapsed:: true
 					- **Teams are the structure.**
 					  background-color:: blue
+					  collapsed:: true
 						- Within them, individual “roles” are collectively defined and assigned to accomplish the work.
 						- In holacracy, they’re “circles”; in podularity, “pods”; at [[Valve]], “cabals”; and at many companies, simply “teams.”
 						- After Zappos implemented holacracy, 150 departmental units evolved into 500 circles.
@@ -101,6 +115,7 @@
 							- People usually hold multiple roles, on various teams
 					- **Teams design and govern themselves**
 					  background-color:: blue
+					  collapsed:: true
 						- while nested within a larger structure.
 						- organizations ratify a **constitution**—a living document
 							- The constitution doesn’t say how people should do their tasks.
@@ -113,10 +128,12 @@
 						  id:: 65c53b4f-1c40-4c5e-9a96-8bee03b1522b
 							- [[Colleague Letters of Understanding]] ([[CLOUs]]) @ [[Morning Star]]
 								- Let your colleagues know **what they can count on you to accomplish**.
+								  collapsed:: true
 									- essentially contracts that articulate employees’ work commitments to the organization—like annual performance previews
 								- ((65c53dee-8b90-4705-9631-31a7356e1f48))
 					- **Leadership is contextual.**
 					  background-color:: blue
+					  collapsed:: true
 						- Leadership is distributed **among roles**, not individuals
 						- Responsibilities shift according to fit and as the work changes
 						- Enterprise software such as [[GlassFrog]] or [[holaSpirit]] is typically used
@@ -254,6 +271,7 @@
 						- **Question**: Should they keep hiring [[T-shaped employees]]?
 						-
 				- ((65c3e266-73af-459e-80ab-29d86ac30e43))
+				  collapsed:: true
 					- ((65c3e266-98d0-49db-84fb-fb3e7355b594))
 						- {{embed ((65c51ac3-1098-4d60-b200-24a50c2ae041))}}
 						- {{embed ((65c51c44-08b5-4f9b-8262-47777f20ad45))}}
@@ -277,16 +295,19 @@
 					- Valve stack-ranked its employees - but all ranking was done by peers.
 					  collapsed:: true
 						- Detailed
+						  collapsed:: true
 							- > Employees were first ranked internally within cabals by those with whom they chose to work, based on their technical ability, productivity, contribution to the operation of the group, and the successful development of the resulting product. The cabal peer rankings were then aggregated and calibrated by committees of peers across cabals to produce a company-wide ranking upon which compensation was based.
 					- From theory
 						- {{embed ((65c53b4f-1c40-4c5e-9a96-8bee03b1522b))}}
 			- **Hiring the Right People and Keeping Them Forever**
 			  id:: 65c51427-2028-40f2-9187-c6f5bab9064c
+			  collapsed:: true
 				- How to find these incredibly talented people, **convince them to come**, and then **convince them to stay together** over time? #[[hiring]] #[[employee retention]] #[[Talent Acquisition]] #[[team formation]]
 				  id:: 65c50826-31b5-42ed-815b-5ca3b88ad70e
 			- The hardware [[cabal]].
 			- **Leaderless Management** and Hardware prod
 			  id:: 65c51ac3-1098-4d60-b200-24a50c2ae041
+			  collapsed:: true
 				- Would the Valve operating system be compatible with hardware production?
 					- Detailed Quotes
 					  collapsed:: true
@@ -303,6 +324,7 @@
 				- Forcing a decision when not all organization might agree.
 				  id:: 65c51cba-44a0-4cb4-915b-fe1d05d67f67
 		- [[To learn]]
+		  collapsed:: true
 			- About providing freedom to fail.
 			- ((65c50826-31b5-42ed-815b-5ca3b88ad70e))
 			- ((65c51133-65d1-4e18-a379-83d85b036caf))
@@ -310,9 +332,98 @@
 		-
 	- L3: Jielang Phone Home
 	  background-color:: gray
-	  collapsed:: true
 		- Random
 			- Transparancy
+		- Ethan S. Bernstein (2012) “The [[Transparency Paradox]]: A Role for Privacy in Organizational Learning and Operational Control, #Transparency
+		  tags:: [[Transparency]], [[privacy]], [[organizational learning]], [[operational control]], organizational performance,
+			- [The Transparenty Paradox.pdf](G:/My Drive/CBS/KLCM/The Transparency Paradox.pdf)
+			- **[[Transparency Paradox]]**
+			  id:: 65d24cb0-6568-4571-8dd5-cdc3b9b60380
+				- **Problem**: Maintaining observability of workers may counterintuitively reduce their performance.
+					- by inducing those being observed to conceal their activities through codes and other costly me
+				- **Solution**: Creating zones of privacy may, under certain conditions, increase perfor
+					- Even a modest increase in **group-level privacy** sustainably and significantly improves line performance
+					- Privacy is important in supporting
+						- [[productive deviance]]
+						- [[localized experimentation]]
+						- [[distraction avoidance]]
+						- [[continuous improvement]]
+					-
+		- Watson, Organising and Managing Work, Chapter Two
+		  id:: 65d2533b-fd77-4291-9360-7c204f1678e7
+			- [Watson Chapter Two.pdf](G:/My Drive/CBS/KLCM/Watson Chapter Two.pdf)
+			- Systems-thinking’s dependence on the notion of organizational goals
+			- Process-relational way of looking at organising
+			- Concepts
+				- [[organization]]
+				- [[Organizational Goals]]
+					- Replace with [[Organization Tasks]]
+				- [[Bureaucracy]]
+				- [[Systems thinking]]
+				- [[Process-relational]] view of organizations
+				  id:: 65d2683f-1029-420a-8b52-87dfd2519cf8
+					- the organisation is a set of relationships and understandings which are always **emergent** #Complexity
+					- the organisation involves a multiplicity of different individuals and groups, all with **differing interests and priorities**
+					- organising involves continuous social, political, cultural, technological, economic and moral processes
+					- work tasks are carried out
+						- within a context of
+							- continuous exchange
+							- negotiation
+							- the exercise of power
+						-
+				- [[Personified organization]]
+				- [[Paradox of consequences]]
+					- means chosen to fulfil certain ends come to undermine those ends
+				- [[Negotiated Order]]
+					- Eric example with copying paper
+			- a
+				- ✔ **In process-relational thinking**
+				  collapsed:: true
+					- {{embed ((65d2683f-1029-420a-8b52-87dfd2519cf8))}}
+				- Defining and characterising organisations
+				- ✔ **Organisations as virtual realities**
+				- **The struggle for control and the exercising of power**
+				  collapsed:: true
+					- >Power is rarely uncontested and, to a greater or lesser extent, attempts at control are typically resisted
+					- [[Power]]
+					-
+				- Organisations and processes of **social construction**
+					- The social construction of reality
+					-
+				- Performing **tasks** ‘in the organisation’s name
+			- ✔ Organisations and negotiated order
+			- Organisations, people and the **inevitability of ‘things going wrong’**
+			  id:: 65d264d1-37b2-44dd-ba4e-d4993ff4c347
+				- [[Paradox of consequences]]
+				- People are expected to me means, but sometimes become ends.
+				- Example
+					- At a more structural level, a political party might be set up to bring about social reform in a society but ends up primarily as a vehicle to give careers to the politicians who run the party.
+				- **A very interesting example**: A man aspired to run own IT company. But he was reluctant to leave the comfort of the company.
+				  collapsed:: true
+					- > similar process is occurring when managers in an organisation build personal ‘empires’ that serve their own private purposes more than they serve corporate ends of achieving long-term organisational survival. An example of this was the head of computing services of a large financial services company. What this man really aspired to was running his own information technology company. But he was reluctant to leave the comfort of the company with which he had spent most of his career and which paid him a large salary with an excellent pension scheme and a cheap mortgage. Consequently, he built up his department with experts in every branch of computing and information technology – often when that expertise was of little relevance to the main business. This man persuaded the chief executive that all this was necessary to ‘cope with the future’. But eventually the cost burden of the department became too great in the eyes of the board of directors. The IT man was removed with half of his staff with the consequence that the costs fell dramatically and the computing and IT service improved considerably. The IT function had been subverting the ends for which it was set up.
+				-
+					-
+		- [Jieliang Phone Home! (A).pdf](G:/My Drive/CBS/KLCM/Cases 2/Jieliang Phone Home! (A).pdf)
+		  collapsed:: true
+			- Principles
+				- **Elimination of waste.**
+				- **Zero defects**
+				- **Just-in-time (JIT)**
+				- **Pull instead of push**
+					- most businesses use a combination of pull and push processes, called a hybrid or "push-pull" system
+						- The "push-pull" boundary, also known as the "d**ecoupling point"**, can be set at different stages of production based on various factors such as lead time, production flexibility, and customer service level.
+				- **“Kaizen” or continuous improvement**
+			- Visual Factory
+				- Transparency
+			- Kaizen
+				- > But one of the things we have observed is that things steadily improve while we are on-site, but as soon as everyone goes home, things slip back to where they were.
+			-
+		- [Jieliang Phonr Home! (B).pdf](G:/My Drive/CBS/KLCM/Cases 2/Jieliang Phonr Home! (B).pdf)
+		  collapsed:: true
+			- They teach to not to how instructed, to win extra performance
+				- But once higher ups are watching, do as instructed
+				- Even though the extra performance would be appreciated by the higher ups (but they don't know that?)
+			- Why are the nightshift better - still productive but relaxed (whithout managers, visitors)?
 	- L4: **[[Change]]** & **[[Social Movements]]**
 	  background-color:: gray
 	  collapsed:: true
