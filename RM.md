@@ -1,5 +1,6 @@
 - What is an [[inquiry]] or what does it mean to [[do research]]?
 - Inquiry
+  collapsed:: true
 	- Going from **interminate situation** to **determinate situation**.
 - Lecture 2
   collapsed:: true
@@ -302,6 +303,7 @@
 		  logseq.order-list-type:: number
 		-
 - Lecture 7
+  collapsed:: true
 	- Participational observation (Observational research)
 		- Observational spectrum
 			- Non-participation

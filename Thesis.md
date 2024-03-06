@@ -15,8 +15,29 @@
 			- Not explored yet, just maped
 		- [[conjoint analysis]]
 		- ((65b6a0bf-1206-4ef6-8b01-c4326d0c2249))
-- To Do's
+- Plan / To Do's
   background-color:: blue
+	- Roadmap
+	  background-color:: yellow
+		- Explore additional existing research of LLMs around this topic
+		  logseq.order-list-type:: number
+		- Select and revise a market research method
+		  logseq.order-list-type:: number
+		- Select way to gather real data
+		  logseq.order-list-type:: number
+		- Ideate (or select) the techniques/frameworks of encoding a human persona into an LLM agent
+		  logseq.order-list-type:: number
+		- Ideate (or select) the techniques/frameworks of encoding a representation of a feature, product, etc. into a text prompt
+		  logseq.order-list-type:: number
+		- Ideate on the overall system of simulating the market research activity
+		  logseq.order-list-type:: number
+		- Align with you again (or throughout), to conclude progress on methodology and determine next steps
+		  logseq.order-list-type:: number
+		- Consult a market research expert
+		  logseq.order-list-type:: number
+	- Intermediary Tasks
+	  background-color:: yellow
+		-
 - **Topic**: NLP/LLMs driven simulations x market research
   id:: 65a83ceb-a2e2-48ae-aacd-3634889b159f
   background-color:: blue
@@ -107,7 +128,6 @@
 				- Jobs-to-be-Done (JTBD)
 				- Ethnographic Research
 	- Resources
-	  collapsed:: true
 		- TODO GPT revolution and digital entrepreneurial intentions
 			- [lnk](https://www.emerald.com/insight/content/doi/10.1108/JEEE-07-2023-0260/full/html)
 			- References ((65af92bb-da88-45b8-90af-ca5770651146))
@@ -304,10 +324,6 @@
 	  collapsed:: true
 	  {{query [[share]]}}
 	- {{embed ((65b698ea-4bdc-401d-8852-a1d9a98e016c))}}
-- [[CBS Students Thesis]]
-  background-color:: purple
-  collapsed:: true
-	- {{embed [[CBS Students Thesis]]}}
 - Links
   background-color:: purple
   collapsed:: true
@@ -331,6 +347,13 @@
 		- - Substantiate the chosen method and research design
 		-
 	- 2 Studs: 60 pages, 1 stud: 40 pages
+- Less Relevant
+  background-color:: blue
+  collapsed:: true
+	- [[CBS Students Thesis]]
+	  background-color:: purple
+	  collapsed:: true
+		- {{embed [[CBS Students Thesis]]}}
 - [[Thesis: Irrelevant]]
   collapsed:: true
 	- {{embed [[Thesis: Irrelevant]]}}

@@ -1,3 +1,5 @@
+alias:: Business plan, Business plans
+
 - Bookmark
   collapsed:: true
 	- Finished:

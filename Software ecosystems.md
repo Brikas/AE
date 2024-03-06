@@ -24,7 +24,7 @@ alias:: [[SECO]], [[SECOs]]
 		- Towards a theory of ecosystems **(2018, C: 3082 🔥🔥)**
 		  collapsed:: true
 			- [src](https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.2904)
-		- Open innovation, information, and entrepreneurship within platform ecosystems **(2018, C: 198)**
+		- Open innovation, information, and [[entrepreneurship]] within platform ecosystems **(2018, C: 198)**
 		  collapsed:: true
 			- [src](https://onlinelibrary.wiley.com/doi/abs/10.1002/sej.1298)
 		- Model-driven engineering ecosystems **(2019, C: 11)**

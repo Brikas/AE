@@ -2,3 +2,5 @@
 - Related
 	- [[Podularity]]
 	- [[Self-managing systems]]
+	- [[Self-organising teams]]
+-
