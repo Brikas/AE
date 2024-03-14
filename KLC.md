@@ -36,6 +36,13 @@
 		  background-color:: yellow
 		  id:: 65c3e266-c078-4a47-a740-27f2f9093c7f
 		- Other tips
+	- Class notes
+		- What arguments have been made?
+		  background-color:: green
+		  id:: 65eb0a7d-8aaf-41da-8072-00c000eec229
+			- Cons/Pros of the argument
+			  background-color:: yellow
+			  id:: 65eb0a89-9ac2-4d21-948d-e9cb9874b6ff
 - Things I learned
 	- [[Transparency Paradox]]
 	  collapsed:: true
@@ -49,8 +56,9 @@
 		  collapsed:: true
 			- {{embed ((65d264d1-37b2-44dd-ba4e-d4993ff4c347))}}
 		-
+	- [[Community of Practice]]
+		- Relating to [[Slack]] too (from self learning)
 - **Lectures**
-  collapsed:: true
 	- L2: [[Holacracy]]: **[[Valve]]** case #Inspiration
 	  background-color:: gray
 	  collapsed:: true
@@ -560,13 +568,56 @@
 	  background-color:: gray
 	  collapsed:: true
 		- Topics
-			-
+		- Reading A
+			- [[Diversity]] and Tempered radicals
+			  background-color:: yellow
+				- Diverse organization are more **responsive to the environment** #verified
+				  background-color:: gray
+					- More innovative
+					- More customer-oriented
+					- Performs better
+						- *because of more competition etc.*
+				- Diverse organisation are **less comfortable workplaces** #verified
+				  background-color:: gray
+					- More tension
+					- Less consensus
+					- More competition
+			- Why are organisations homogenous? #verified
+			  background-color:: yellow
+				- Not necessarily discrimination
+				- [[Ingroup-outgroup dynamic]] (Social identity theory)
+					- Social cohesion
+						- *People that agree and idenify with each other*
+						- No need to make decisions about eveything, cause they agree auto.
+					- Substitutes for decision making
+				- Homosocial reproduction
+					- Choosing people like oneself
+					- Conformity
+					- Consensus
+			- Tempered radicalism
+			  background-color:: yellow
+				- How to circumvent [[Ingroup-outgroup dynamic]]s
+				- Tempered is people who mostly share values of org, but also see weaknesses of it.
+					- Sandra believd in the main point of the org, but didn't believe in the culture or the org.
+			- Variable-term opportunism
+			  background-color:: yellow
+				- opening
+				- exploit cracks in the system
+				- tap into disgruntled elites
+					- people that are miffed
+					- they might be opened to helping out
+			- Strategic aliance building
+			  background-color:: yellow
+				- [[Pragmatic Networking]]
+		- Optional reading
+			- Just read page 1
 	- L5: [[REMA 1000]]: **[[Knowledge management]]**
 	  background-color:: gray
+	  collapsed:: true
 		- Tags: #Workplace #franchise
-		- [Case.pdf](G:/My Drive/CBS/KLCM/Cases 2/Knowledge Sharing at REMA 1000 (A).pdf)
 		- Case Analysis
 		  collapsed:: true
+			- [Case.pdf](G:/My Drive/CBS/KLCM/Cases 2/Knowledge Sharing at REMA 1000 (A).pdf)
 			- Rand
 				- Decentralized operations
 				- Training franchisees
@@ -591,36 +642,129 @@
 					- "Fuck off"
 				- Information amount
 				- TODO Advantage and Weaknesses of [[Workplace]]
-				-
-			- ((65c3e266-b740-418a-9dfb-444e53675f90))
+				- They close 3-4% every year
+				- {{embed ((65eb1bec-8dd0-4d56-9f84-038a3955a09b))}}
 				-
 			- ((65c3e266-f2d6-4779-b9b3-b9004c27c62d))
 				- Keep
 				- Constrain the use
 				- Unlear really
-			- ((65c3e266-c078-4a47-a740-27f2f9093c7f))
-				-
 			- Stuff
 				- Franchisees pushed ideas
 				- Shared best practices at regional meetings held six times per year.
 				- Company-wides decisions were highly based on franhisee feedback
-				- Look up [[Slack]] initiativves
 				- Interesting
 					- > They use their resources on the weaker stores
 				-
+		- Class Analysis
+			- ((65eb0a7d-8aaf-41da-8072-00c000eec229))
+				- e1
+					- ((65eb0a89-9ac2-4d21-948d-e9cb9874b6ff))
+				- e2
+					- ((65eb0a89-9ac2-4d21-948d-e9cb9874b6ff))
+				- e3
+					- ((65eb0a89-9ac2-4d21-948d-e9cb9874b6ff))
+			- Business Model of REMA1000 - [[franchise]]
+			  id:: 65eb1bec-8dd0-4d56-9f84-038a3955a09b
+				- as a franchisee you get
+					- Brand
+					- KM
+					- Marketing
+					- Supply chain
+				- Costs
+					- Franchise fee
+					- Revenue share
+						- 7%
+				- Extra benefits for the company
+				  id:: 65eb1cfb-b502-4817-89e6-46ed5cfd1fb1
+					- Local market adaptability
+					- Mobilize the founders
+						- [[Zabka]]
+						-
+					- [[Risk Management]]
+						- People take risks for you
+				- Negatives
+					- Leaving money on the table.
+			- Success of REMA1000
+				- {{embed ((65eb1cfb-b502-4817-89e6-46ed5cfd1fb1))}}
+				- Freedom for the franchisees
+			- Workplace
+			  background-color:: yellow
+				- Pros #verified
+					- Connectivity
+					- ([[Culture]] of) [[continuous improvement]]
+					- Granural info control
+					- Easy to use
+						- Looks like facebook
+						  id:: 65eb206a-b53d-444e-8414-0f63814b2ced
+					- Social graph
+					- Reduce power distance *(could be con too)*
+					- Bypass hierarchy
+				- Cons #verified
+					- Information overload
+					- Facebook algorithm prioritises popularity over importance
+						- f.e. cats and dogs pictures
+					- Distractions (time waster)
+					- Non-work interactions
+						- could be related to ((65eb206a-b53d-444e-8414-0f63814b2ced))
+					- No control
+					- Lack of structure
+			- How to solve?
+			  background-color:: yellow
+				- Group information by importance #student-idea
+				- Organization horizontally AND vertically #student-idea
+				- Moderation #student-idea
+					- Might take extra resources.
+				- What they actually did?
+				  background-color:: blue
+					- Divided up into smaller work rooms
+					- They did a management channel
+					- They kept Workplace
+			- Etc
+				- Vision
+					- Run everything on the phone
+						- So they can be in the grounds of the store.
+					- Teacher thinks its a reasonable goal. #verified
+					-
+				- Who would [[Workplace]] work for and not?
+				- Args'
+					- Only the chosen ones
+					- The regional directors coordinating experiments vs individual franchisses doing experiments
+						- Why would the in
 		- Real life
 			- Why do we have multiple channels for new [[Rangu]]?
-			- Amazon shut down a Slack channel where 2k employees talked about PIPs
+			- Amazon shut down a [[Slack]] channel where 2k employees talked about PIPs
 				- “anonymous” internal Slack channel
 				- It was called #pay-equity
 				- performance-improvement plans.
+			- Channels Groups with only *Chosen Ones* #Slack
+				- *Removing people*
+			- 🔸 [[Slack]] channels - No DM's approach
+			- Personal channels/groups #Slack
+				- [reddit](https://www.reddit.com/r/ExperiencedDevs/comments/x38x61/personal_channels_in_teamsslack/)
+				- Could be used for [[Working out loud]]
+					- [Bloomfire Article](https://bloomfire.com/blog/working-out-loud-what-it-is-and-how-to-start/)
+					- Other can see your thought process behind something
+					- "Rubber Ducking" - Engineering notebook
+						- *channels are called * `rd-name`'
+						- Utility & Examples
+							- > Stuck and need help? @ a teammate, and they can read context and very quickly get into helping you out.
+							- > Seeing a teammate about to go work with deprecated technology? Save them hours or even days of time.
+							- > You also get to _learn_ from more senior or tenured folks to absorb patterns faster.
+						- Reqs
+							- *requires some __strong cultural norms__: you don't critique or attempt to redirect others, you don't opine on everything, etc etc- it requires a mature culture to seed it, and set those norms.*
+				- **Negative**: Should work be centered around specific people?
+					- Tracking multiple channels/groups
+				-
 		- **Reading**: Knowledge and Organization: A Social-Practice Perspective #[[Knowledge management]]
+		  collapsed:: true
 			- [Knowledge and Organization.pdf](G:/My Drive/CBS/KLCM/Knowledge and Organization.pdf)
 			- Ways to understand knowledge
 				- **Tacit** vs **Explicit**
 				- **Esoteric** vs **Trivial**
 				- **Personal** vs **Collective**
 				- 🔸 **Sitcky** - **Leaky**
+				  collapsed:: true
 				  #[[sticky knowledge]] #[[leaky knowledge]]
 					- Sticky
 					  background-color:: yellow
@@ -635,6 +779,7 @@
 							- So apple stole ir etc.
 					- [[Community of Practice]] ((65e39b85-2d9a-40ac-8814-2abaaba4194d))
 			- 🔸 **Identity** + **Knowledge** = [[Community of Practice]]
+			  collapsed:: true
 				- Communities of practice are useful towards knowledge #.v-border-child
 				  background-color:: blue
 					- **Sites** for a tight, effective **loop of insight**, **problem identification**, **learning**, and **knowledge production**
@@ -657,10 +802,51 @@
 		-
 	- L6: [[Basecamp]]: **[[Organisational Politics]]**
 	  background-color:: gray
-	  collapsed:: true
+		- Optional Readings
+			- [The Tech Industry’s Gender-Discrimination Problem _ The New Yorker](G:/My Drive/CBS/KLCM/The Tech Industry’s Gender-Discrimination Problem _ The New Yorker.pdf)
+		- Class Notes
+			- ((65eb0a7d-8aaf-41da-8072-00c000eec229))
+				- e1
+					- Cons/Pros of the argument
+					  background-color:: yellow
+				- e2
+					- Cons/Pros of the argument
+					  background-color:: yellow
+				- e3
+					- Cons/Pros of the argument
+					  background-color:: yellow
+		- Case
+		  collapsed:: true
+			- [mac](/Users/twenythree/Library/CloudStorage/GoogleDrive-ninjatxgaming@gmail.com/My Drive/CBS/KLCM/Cases 2/Trouble at Basecamp.pdf)
+			- ((65c3e266-98d0-49db-84fb-fb3e7355b594))
+				- What to do with policitcs at work? Allow them or not?
+			- ((65c3e266-9a6f-4b60-b2cd-7298ec86fb8a))
+				- [[Remote Work]]
+				- 60 people scale-up
+				- Best Names Ever list
+					- Mocking customer names from all countries
+					- Apology post
+					- List was long time
+				- Two camps
+					- Best Names Ever List is racist and very bad
+					- Best Names Ever List is racist, but not a big catastrophe.
+				- Public shaming
+				- Policy Changes
+				- Open letter to co-founders
+				- The twitter reception was big and mostly negative
+			- ((65c3e266-b740-418a-9dfb-444e53675f90))
+			- ((65c3e266-c078-4a47-a740-27f2f9093c7f))
+			- Other
+				- Companies getting [[PR]] issues from customer wrong-doing.
+				- Diversity and Inclusion Council (DEI)
+				- Hansson posted his forensic accounting
+					- noted the co-founders’ accountability
+				- > The silence in the background is what racism and white supremacy does. It creates that atmosphere that feels suffocating to people. It doesn’t require active malice
+				-
 		- Random
 			- Its not possible to not have politics in your company.
 			- You can't eliminate politics in an organisation
+		-
 	- L7: [[Apple]]: **[[Ethics]]**
 	  background-color:: gray
 	- L8: [[US Airforce]]:
@@ -707,6 +893,7 @@
 			- TODO [[Maintaining integration]] in very diverse workplaces #.v-self-border
 			- TODO Grappling with [[uncertainty]] and change #.v-self-border
 - **Topics**
+  collapsed:: true
 	- [[Social Movements]]
 	- [[What is Leadership?]]
 		- Course also teaches vocabulary to use in describing
@@ -731,3 +918,28 @@
 - **Exam**
   collapsed:: true
 	- Dont being saying "There are many different ways to define Leaderhsip"...
+	- Choose the part of the case that I like
+	- Example
+		- Jie liang case
+	- Don't write in passive voice
+		- Write in first person, active voice.
+		- Don't say *in this paper, it is argued*
+		- Direct statements and short sentences.
+			- Even if it feels childish.
+	- What matters?
+		- The way you frame the argument
+		- The way you engage with the cases
+		- Not the details
+		- Criticising things
+			- Also criticising the class discussions.
+	- How much summary to give?
+		- Not much. A little
+	- How many cases?
+		- Focus and go deep in one case.
+		- The more the cases, the higher the reward, but the more difficult.
+	- 3 Readings
+		- Explain what their main point was
+		- Explain why chose it (why its relevant)
+		- *Put bibliography at the end*
+		-
+-

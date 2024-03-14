@@ -121,7 +121,6 @@
 		- **Conclusions**: Anytime you are doing research, you need to identify your assumptions.
 	- Stuff
 		- Parts
-		  collapsed:: true
 			- To Explore,
 				- usually more in a new science
 					- Like at first they observed the stars in cosmos.
@@ -387,6 +386,191 @@
 			- **Drug sales**: While Tina's son Ricky provides Tina with a small quantity of crack to sell, Carter resists engaging more deeply in drug sales, fearing the associated risks and potential for violence (pp. 25–26).
 			- **Bin-diving/Dumpster diving**: Searching through dumpsters sometimes yields valuable items that can be used or sold (p. 9).
 			- **Credit from drug dealers**: Tina manages to acquire drugs on 'credit,' implying some trust or arrangement with her suppliers, allowing them to maintain their habit and possibly resell some portion (pp. 12–13).
+- Lecture x
+  collapsed:: true
+	- G1
+		- Concepts
+		  id:: 65e99a56-e540-4b96-8ae6-dc8c5d6c0faa
+		  collapsed:: true
+			- Concepts require definitions.
+				- For example define year cycle (seaons) - is it categorical or madular continuum?
+			- In exam Literally mention "definition" or "define"
+			- Concept abstraction level example
+				- Status - Very abstract
+				- Success - Mid abstract
+				- Age - Low abstract
+			- **Variables** are measurements that are free to stay.
+				- Dependent variable
+				- Independent variable
+			- **Constants** do not vary
+				- f.e. speed of light
+				- Can be variables that are held constant.
+			- *The fact of being observed is a determinant itself.*
+			- You need to be careful what do you view as constant and variable
+		- Measures -
+		  collapsed:: true
+			- Examples
+				- Her **age** is *48 years*
+					- age is concept
+					- 48 years is measure
+				- He *does not* **like anchovies**
+					- like anchovies is concpet
+					- does not is meaure
+			- Types
+				- ...
+				- Ordinal
+					- Choose either with middle point or without middle point
+					- There could also be NA (I didn't eat the pizza at all)
+				- Intervals
+					- Variables whose values indicate points on a continuum without absolute zero point
+						- IQ
+						- Time and dates
+				- Ratio
+				- Dichotomous
+					- Yes or no
+					- True or false
+		- Samples
+			- Probability Sampling
+			  collapsed:: true
+				- Simple random
+				  background-color:: yellow
+					- *I will talk to the first 100 people on the street*
+				- Stratisfied random
+				  background-color:: yellow
+					- Select groups
+						- *f.e.* age group 18-29
+						- *f.e.* region
+						- *f.e.* gender
+					- Then make sure the sample represents same straficiation in the underlying population
+						- So if 40% of all people are men.
+							- Your sample must also contain 40% men.
+							- *ideal, but now always possible*
+				- Clustered random
+				  background-color:: yellow
+					-
+			- Non-probability Sampling
+				- Quotra
+				- Snowball
+				- Availability or convenience
+	- G2
+		- Distributions
+			- Some are normal some are not
+			- If its not, you can't run some statistics on it.
+	- G3
+		- Most business theories are mid-range
+			- [[resource based theory]]
+		- Potential problems
+		  collapsed:: true
+			- Theory-Method Mistmatch
+				- Studying the market and doing a one interview
+			- Correlation does not neccerily mean causation
+				- G1
+				  collapsed:: true
+					- Look at [[Cross-sectional data]]
+						- Independent variable(s) are fixed prior to variations in dependent variable
+							- Fix some variables
+					- Loot at [[Longitudinal data]]
+						- Variations in independent variable(s) precede(s) variation in dependent variable.
+						- a
+							- Repeated cross-section (trend study)
+							- Fixed-sample (panel study)
+							- Event-based (cohort study)
+				- Nonspuriousness
+				- Causal Mechanism
+					- ![image.png](../../assets/image_1709816042802_0.png)
+				- There is no quantitative way to prove causation.
+				- You need quantitative part. #verified
+				- Causal Context
+			- Time Order
+				- Independent Variables have to come before the and dependent variables measurement
+				-
+	- Qualitative Research
+		- [[Content Analysis]]
+			- History
+				- How to spread opinion?
+					- [[Magic Bullet]] vs [[Two step flow]]
+						- *Lazarsfeld’s two-step flow*
+		- Inter-coding reliability > 80% #Thesis
+		  id:: 65e9bdba-b0ab-4133-9b6b-9fbaba222f98
+			-
+- Lecture y
+	- Survey
+	  id:: 65f1b8ff-f61b-49ff-86db-9177550b042b
+		- Grooves. R. R. et al. 2004 Survey Mehtodology
+		  id:: 65f1b7b9-a6f8-429b-87c9-fad9956047f6
+		- The SAGE handbook of Survey Methodology
+		  id:: 65f1b8c6-3cf3-4141-91de-3a7cdbdc27c5
+		- Design
+		  collapsed:: true
+			- Wording
+			- Ordering
+			- Collecting
+		- Criteria
+		  collapsed:: true
+			- Comprehension
+				- Do people comprehend what I am asking?
+				- One question at a tim
+					- No end connection
+					- Dont pack two questions at a time
+					- Simple and familiar words
+					- Specific and concrete words (meat vs poultry)
+						- Are you asking about meat or just poultry
+					- As few words as possible
+						- No fillers
+					- Complete Sentences
+					- Avoid double negatives
+			- Retrieval
+				- Can we ask and get that data?
+				- Recency effect, duration
+					- last week vs last year
+				- Distinctiveness (buying a car vs buying groceries)
+					- No
+						- What did you have last year when you went to Fakta?
+					-
+					- people are more likely to remember when buying a car
+				- Importance (wedding vs birthday)
+				-
+			- Judegement
+				- Stability
+					- Can I ask for last brithday or 5 birthdays back
+				- Complexity
+					- Recent promotion, death of pet, feeling
+					- If you switch over these very different effects, you may get wrong results.
+			- Reportin
+				- Ability
+					- Are you adressing the right population
+				- Willingness
+					- Are they willing to tell you?
+			-
+		- Types of Qs
+		  collapsed:: true
+			- Yes/no
+			- Continuum
+				- important, not sure, not important
+			- Branding (IFTTT)
+				- If this, then that
+			- Ranked order
+			- Open ended (desribe...)
+				- +*Do you have any last comments?*
+		- Arranging Qs
+		  collapsed:: true
+			- Grouping
+				- Progress indicator
+			- From general to specific
+			- Sensitive questions towards end
+		- Software
+		  collapsed:: true
+			- Qualtrics (On CBS servers)
+				- For CBS students free
+		- Basic Principles
+			- Ownership
+			- Consent
+				- Reproducible concent (to prove it)
+			- Privacy
+			- Transparency
+				-
+			- Intention
+			- Outcome
 - Exam
   collapsed:: true
 	- Task
@@ -427,4 +611,8 @@
 			- [[Netnographic Study]]
 			- [[Deductive approach]] - [[deduction]]
 			-
--
+- Qestions
+	- The CBS Lab thing. How is it called? Is it free?
+	- For the provided data
+		- Will you provide the definitions of fields?
+			- link: ((65e99a56-e540-4b96-8ae6-dc8c5d6c0faa))
