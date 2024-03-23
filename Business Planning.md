@@ -13,6 +13,7 @@ alias:: Business plan, Business plans
 	- After-finish
 		- Read cases and listen to Analyses Lectures
 			- 04-04 Sweet Leaf Bath Co.
+			- yses Lectures
 	- To anki
 	  collapsed:: true
 		- Potential
@@ -71,6 +72,7 @@ alias:: Business plan, Business plans
 	- *Fits*
 	  background-color:: purple
 	  id:: 650c4707-858c-4b66-ac76-c58db6e91f2e
+	  collapsed:: true
 		- *Meta*
 		  collapsed:: true
 			- ![image.png](../assets/image_1703008862254_0.png)
@@ -140,12 +142,9 @@ alias:: Business plan, Business plans
 	- ◽ **Prototyping**
 	  id:: 65171db1-84f0-4397-b196-2f260fd8eee6
 	  background-color:: gray
-	  collapsed:: true
 		- ◽ **Pretotyping**
 		  id:: 650c3f79-6032-4d72-80e0-9a3e9f0e43dc
 			- 🔸🔸🔸 [Pretotype it Ebook.pdf](../assets/Pretotype_it_v2_1695302205823_0.pdf)
-			  collapsed:: true
-				-
 	- ◽ **Customer Profile**
 	  id:: 650ddbb1-0be6-4d7d-aaf0-f6c93d0d5560
 	  background-color:: gray
@@ -171,7 +170,7 @@ alias:: Business plan, Business plans
 		  id:: 650c44e1-9f1d-4fc5-88da-ee7b5fe3d8e2
 		- ◽ **Competitive analysis**
 		  id:: 650dea0c-ed1f-48c5-a39b-294bafc211a6
-		- ◽ **Competitive analysis grid** #Models
+		- ◽ **Competitive analysis grid**
 		  id:: 650f155a-4072-4455-8827-9d4fe79b953a
 		  collapsed:: true
 			- A richer alternative ((650f083c-2125-44fb-a3c6-45802e20236e))
@@ -254,7 +253,7 @@ alias:: Business plan, Business plans
 	- ◽ **Scaling**
 	  id:: 6519366b-aaee-4514-94b5-d82538347d69
 	  background-color:: yellow
-	- ◽ **Beachhead**
+	- ◽ **Beachhead** #beachhead
 	  id:: 650dedde-4b83-469e-b80f-b6ac2649d557
 	  background-color:: yellow
 	  collapsed:: true
@@ -263,69 +262,15 @@ alias:: Business plan, Business plans
 		  collapsed:: true
 			- {{embed ((650eee01-8e11-488b-9bc9-b189aecb7a65))}}
 			- Part of ((650eedc7-3cfa-430f-b955-4bfbecd17249))tr
-		- Mental model for **identifying your beachhead**.
-		  id:: 650eeeec-ced8-4d91-a09b-e726893a99be
-		  background-color:: purple
-		  collapsed:: true
-			- Model
-			  collapsed:: true
-				- ![image.png](../assets/image_1695477571794_0.png)
-			- 🔸 Examples / Training session
-				- Glasses
-				  collapsed:: true
-					- **People who has that problem again and again**
-					  collapsed:: true
-						- People with vision lower than 5/10 that are craftsmen, readers, writers.
-					- **People who find existing solutions inadequate** (Beachhead)
-					  collapsed:: true
-						- Oldreaders, writers.
-						  collapsed:: true
-							- **Priests**
-					- Ideas dump
-					  collapsed:: true
-						- Military ppl, generals?
-						- Surgeons
-						- Writers
-						- People with lower than 2/10.
-						- Old people
-						- Existing solutions
-						  collapsed:: true
-							- Magnifying glass
-		- Tool for **identifying beachhead**
-		  background-color:: purple
-		  id:: 650efada-5bab-4fd1-9d1d-21e8d309efc7
-		  collapsed:: true
-			- *Related to* ((650eeeec-ced8-4d91-a09b-e726893a99be))
-			- ![image.png](../assets/image_1695480573055_0.png)
-			  id:: 650efaf4-12d0-4acd-88a0-54e937f2a2a7
-			- Examples
-			  collapsed:: true
-				- ((650ef1e5-876c-4dc0-9ac2-412df891373b))
-				  id:: 650efb25-3249-4db5-a8dc-51186e53cc70
-				  collapsed:: true
-					- ![image.png](../assets/image_1695480628331_0.png)
-					  id:: 650efb2e-ca84-474d-b637-ffc68eaa8f12
-				- ((650ef423-85f9-4550-a943-3e2831b90c42))
-				  collapsed:: true
-					- ![image.png](../assets/image_1695480730261_0.png)
-					  id:: 650efb92-2275-4a89-8934-6054e3add439
-			- Try to identify beacheads that
-			  collapsed:: true
-				- Are identifiable
-				- Are accessible
-				- Have money
-				- Have reference value
-				- Are part of a dense community
-				- That you have empathy for
-			-
 		- ((650f0835-6420-428a-839f-30770f8f7794))
 		  collapsed:: true
 			- Beachheads know well about the competitors.
 			  id:: 650f078c-f099-488c-b72d-85a90ae4ac5b
-			  collapsed:: true
 				- Since beachheads are desperate about their problem, they probably already know well about the competitors.
 				- Link: ((650c44e1-9f1d-4fc5-88da-ee7b5fe3d8e2))
 			- ((650f0945-e693-423e-b9e0-d6ee36fc2d62))
+		- {{embed ((650eeeec-ced8-4d91-a09b-e726893a99be))}}
+		- {{embed ((650efada-5bab-4fd1-9d1d-21e8d309efc7))}}
 	- ◽ **Operations Plan**
 	  id:: 65170e80-ee2b-482b-b823-96e50bcf4cd1
 	- ◽ **Operations Flow Diagram**
@@ -460,29 +405,7 @@ alias:: Business plan, Business plans
 	- ◽ **Technology adoption lifecycle**
 	  id:: 650eed83-b8cd-44f2-aeb3-583ee1e2e9eb
 	  collapsed:: true
-		- ![image.png](../assets/image_1695477191017_0.png)
-		- Innovators - 2.5%
-		  id:: 650eedc7-3cfa-430f-b955-4bfbecd17249
-		  collapsed:: true
-			- Three smaller **groups of innovators**
-			  collapsed:: true
-				- **Friends**
-				  collapsed:: true
-					- They want to buy you product, but they don't really need it.
-				- **Crazy People**
-				  collapsed:: true
-					- They have some unusual interest and passion
-				- ((650dedde-4b83-469e-b80f-b6ac2649d557))
-				  id:: 650eee01-8e11-488b-9bc9-b189aecb7a65
-					- They have a valid need for your product. The need is to great that they are **desperate.**
-					  id:: 650eee30-1ba4-4c29-896f-b320be5c0677
-					- Their **desperation** is what make them buy a product they never heard about.
-					- *Name origin* - Military Strategy
-						- Military forces also have limited resources. They will concentrate first at the beach, so they can land and deliver their fleets.
-						  id:: 656a500e-df4f-48ec-889b-45f45857037d
-						- And only then they conquer territory by territory.
-					- *The beachhead is where everybody loves you*
-					- ((650eeeec-ced8-4d91-a09b-e726893a99be))
+		- {{embed ((65fee1a1-3762-4197-8e02-27e4e18c0446))}}
 	- ◽ **Value Proposition**
 	  id:: 650effb9-e0cb-4ba1-ad70-ad153ff4c17f
 	  collapsed:: true
@@ -813,102 +736,10 @@ alias:: Business plan, Business plans
 					- Customer inspired is better
 					- ((650dd8ed-98db-409b-923f-677bf4353939))
 					- ((650dd971-9657-4ef7-9634-e3220623ee9f))
-			- **Customer (Segment) Profile** #Models
-			  background-color:: green
+			- {{embed ((650ddc74-63ab-4760-b063-f4ca72ff0d77))}}
 			  id:: 650ddc74-63ab-4760-b063-f4ca72ff0d77
 			  collapsed:: true
-				- ((650ddbb1-0be6-4d7d-aaf0-f6c93d0d5560))
-				  background-color:: purple
-				  id:: 650ddb4f-3728-4173-b132-78e0edc58183
-				  collapsed:: true
-					- **Definition**: The set of customer **characterisics** that you **assume**, **observe** and **verify** in the market.
-					- Related to ((650dda2f-e834-435b-a8ec-b39b6a314673))
-					  collapsed:: true
-						- ((650ddbd4-7d4c-45c5-ac5b-05aeb8d92dc3))
-				- Describes the specific customer segment in your business model in terms of jobs, pains and gains.
-				- The model
-				  background-color:: purple
-					- **Gains**
-					  background-color:: blue
-					  id:: 650ddca1-71d4-4579-9cb9-aad1a0aa43ae
-					  collapsed:: true
-						- describes the outcome customers want to achieve or the concrete beneftis they are seeking
-					- **Pains**
-					  background-color:: blue
-					  id:: 650ddcbc-0f3a-42e3-8c4c-a29b08fb5003
-					  collapsed:: true
-						- describes bad outcomes, risks and obstacles related to customer jobs
-					- **Jobs**
-					  background-color:: blue
-					  id:: 650ddcbe-d146-4376-b7a9-170a15e411d9
-					  collapsed:: true
-						- describe what customers are tyring to get done int heir work and in their lives as expressed in their own words
-						- could be in personall or prefessional settings
-						- its important that you don't impose the jobs on them
-							- How do they understand and label them.
-							- [[Design Thinking]]
-				- Image
-				  collapsed:: true
-					- ![image.png](../assets/image_1695407405801_0.png)
-				- **Steps**
-				  collapsed:: true
-					- Choose ((650de0b6-9e58-4991-803f-810cec8a2de3))
-					  logseq.order-list-type:: number
-					- Identify ((650ddca1-71d4-4579-9cb9-aad1a0aa43ae)) ((650ddcbc-0f3a-42e3-8c4c-a29b08fb5003)) ((650ddcbe-d146-4376-b7a9-170a15e411d9))
-					  logseq.order-list-type:: number
-					- Prioritize the ((650ddca1-71d4-4579-9cb9-aad1a0aa43ae)) ((650ddcbc-0f3a-42e3-8c4c-a29b08fb5003)) ((650ddcbe-d146-4376-b7a9-170a15e411d9))
-					  logseq.order-list-type:: number
-				- Used in combination with ((650dde39-e4d4-4dc4-99bf-d95177a165d6))
-				  collapsed:: true
-					- {{embed ((650dded3-4348-4e6e-9bfe-740afc224f67))}}
-				- ((650de159-2f2a-4093-9752-b970a70d529c))
-				  id:: 650de0b6-9e58-4991-803f-810cec8a2de3
-				  collapsed:: true
-					- **What is a good segment?**
-					  id:: 650de0bd-789e-423b-8041-e49f22a932d0
-					  collapsed:: true
-						- Should live up to the following
-							- Identifiable *(sufficiently different from the rest)*
-							- Hommogenous needs/wants
-							- Possible to separate from other segments
-							- Fewer differences within segment than between segments
-							- Possible to quantify segment
-							- (Preferably) large enough to be profitable
-					- Its possible to have more than one segment
-					  collapsed:: true
-						- **Example**: Office 365
-							- Private users. Businesses. Governmental agencies. Students & teachers
-						- The attractiveness and difficulty and targeting of each segment could be very different.
-					- **Interesting example**: book about finance
-					  id:: 650de1ba-7acf-4b4c-b235-830bb0e80798
-					  collapsed:: true
-						- **One segment**: private people
-						- **Surprising segment**: financial institutions
-							- They wanted to use material of the book to help educate their customers
-			- **Value (Proposition) Map** #Models
-			  id:: 650dde39-e4d4-4dc4-99bf-d95177a165d6
-			  background-color:: green
-			  collapsed:: true
-				- **Value map**
-				  id:: 650dda2f-e834-435b-a8ec-b39b6a314673
-				  background-color:: purple
-				  collapsed:: true
-					- **Definition**: The set of value proposition **benefits** that you **design** to attract customers
-					- Related to ((650ddb4f-3728-4173-b132-78e0edc58183))
-					  collapsed:: true
-						- ![image.png](../assets/image_1695407061053_0.png)
-						  id:: 650ddbd4-7d4c-45c5-ac5b-05aeb8d92dc3
-				- Describes the features of a specific value proposition in terms of producs and services, pain relievers and gain creators
-				- Image
-				  collapsed:: true
-					- ![image.png](../assets/image_1695407826711_0.png)
-				- Used in combination with ((650ddc74-63ab-4760-b063-f4ca72ff0d77))
-				  id:: 650dded3-4348-4e6e-9bfe-740afc224f67
-				  collapsed:: true
-					- This is then the ((650ddf67-9abb-4080-8cda-87ea685f5ac0))
-					  id:: 650ddf3f-d205-4f36-8c4b-b0974c8d117b
-					- Image
-						- ![image.png](../assets/image_1695407904909_0.png)
+			- {{embed ((650dde39-e4d4-4dc4-99bf-d95177a165d6))}}
 			- **Choice of market**
 			  collapsed:: true
 				- Based on proper [segmentation](650de0b6-9e58-4991-803f-810cec8a2de3).
@@ -1057,6 +888,8 @@ alias:: Business plan, Business plans
 		- ~~Product~~ / ~~Solution~~ / **Value proposition**
 		  collapsed:: true
 			- ((650effb9-e0cb-4ba1-ad70-ad153ff4c17f))
+			  id:: 65eace91-6c93-41df-8b63-a8790a8e4174
+			  collapsed:: true
 				- Tips
 				  collapsed:: true
 					- Make sure its aligned for among your team
@@ -1438,21 +1271,8 @@ alias:: Business plan, Business plans
 							- ((650f1a5e-9210-486b-8ac8-9eb055f2853b))
 							  id:: 650f083c-2125-44fb-a3c6-45802e20236e
 							  collapsed:: true
-								- The model
-								  id:: 650f0896-df99-4cb4-9332-b3a9bd42a30e
-									- ![image.png](../assets/image_1695483994412_0.png){:height 226, :width 455}
-								- Explanation
-									- If you have a direct competitor - use it. If you don't - use **alternatives/substitutes**.
-									- You need to prioritize the feature that is the most important to your ((650dedde-4b83-469e-b80f-b6ac2649d557))
-									  id:: 650f0945-e693-423e-b9e0-d6ee36fc2d62
-								- **Example**: [[Donkey Republic]]
-								  collapsed:: true
-									- ![image.png](../assets/image_1695484114850_0.png)
-								- **Example**: Ikea
-									- ((6511c9c6-b9f3-4084-92f0-87ba8c8673fe))
-								- Tips
-									- For internal use. Don't show to investors.
-									- Ask beachheads what is mostly important to them
+								- {{embed ((65fed950-fc6a-4e48-8f62-57b0119f7001))}}
+							-
 						- Example: [[IKEA]]
 						  id:: 6558f1ba-609d-402b-9542-0c779fc9bb3b
 							- ![image.png](../assets/image_1695664344594_0.png)
@@ -1642,7 +1462,10 @@ alias:: Business plan, Business plans
 	  collapsed:: true
 		- Readings
 			- TBA
+		- {{embed ((65eace91-3768-4644-a967-6a8ed4c372b1))}}
 	- ## Lecture 12: Course recap and exam preparation
+	  collapsed:: true
 		- Readings
+		  id:: 65eace91-3768-4644-a967-6a8ed4c372b1
 			- [Sesssion 12 (exam prep).pdf](../assets/Sesssion_12_(exam_prep)_1703006878444_0.pdf)
-		-
+-

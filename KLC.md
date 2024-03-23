@@ -43,6 +43,9 @@
 			- Cons/Pros of the argument
 			  background-color:: yellow
 			  id:: 65eb0a89-9ac2-4d21-948d-e9cb9874b6ff
+		- What are the tensions in the case?
+		  background-color:: green
+		  id:: 65f4409b-86e8-41bc-a96e-2efb5b739669
 - Things I learned
 	- [[Transparency Paradox]]
 	  collapsed:: true
@@ -657,13 +660,21 @@
 					- > They use their resources on the weaker stores
 				-
 		- Class Analysis
+		  collapsed:: true
 			- ((65eb0a7d-8aaf-41da-8072-00c000eec229))
 				- e1
+				  collapsed:: true
 					- ((65eb0a89-9ac2-4d21-948d-e9cb9874b6ff))
 				- e2
+				  collapsed:: true
 					- ((65eb0a89-9ac2-4d21-948d-e9cb9874b6ff))
 				- e3
+				  collapsed:: true
 					- ((65eb0a89-9ac2-4d21-948d-e9cb9874b6ff))
+			- ((65f4409b-86e8-41bc-a96e-2efb5b739669))
+				- [[Workplace]] is being used on time-wasting, irrelevant activities
+					- [[.embed]]{{embed ((65eb2000-75ab-4761-be19-b686ba8cc3a2))}}
+					-
 			- Business Model of REMA1000 - [[franchise]]
 			  id:: 65eb1bec-8dd0-4d56-9f84-038a3955a09b
 				- as a franchisee you get
@@ -703,6 +714,7 @@
 				- Cons #verified
 					- Information overload
 					- Facebook algorithm prioritises popularity over importance
+					  id:: 65eb2000-75ab-4761-be19-b686ba8cc3a2
 						- f.e. cats and dogs pictures
 					- Distractions (time waster)
 					- Non-work interactions
@@ -732,6 +744,7 @@
 					- The regional directors coordinating experiments vs individual franchisses doing experiments
 						- Why would the in
 		- Real life
+		  collapsed:: true
 			- Why do we have multiple channels for new [[Rangu]]?
 			- Amazon shut down a [[Slack]] channel where 2k employees talked about PIPs
 				- “anonymous” internal Slack channel
@@ -758,7 +771,7 @@
 				-
 		- **Reading**: Knowledge and Organization: A Social-Practice Perspective #[[Knowledge management]]
 		  collapsed:: true
-			- [Knowledge and Organization.pdf](G:/My Drive/CBS/KLCM/Knowledge and Organization.pdf)
+			- [Knowledge and Organization.pdf](G:/My Drive/CBS/KLCM/Knowledge and Organization.pdf) - [Mac Link](/Users/twenythree/Library/CloudStorage/GoogleDrive-ninjatxgaming@gmail.com/My Drive/CBS/KLCM/Knowledge and Organization.pdf)
 			- Ways to understand knowledge
 				- **Tacit** vs **Explicit**
 				- **Esoteric** vs **Trivial**
@@ -798,23 +811,61 @@
 					- **Practice** creates **epistemic differences** among the communities within a firm
 						- The firm’s **advantage over the market** lies in dynamically coordinating the **knowledge** produced by these communities despite such differences
 					-
-					-
-		-
+			-
+		- Skill of convincing people that you know might **be core**
+		  id:: 65f35a93-8093-46f4-aa7d-991254b43a91
+			- *popular in consultancies*
 	- L6: [[Basecamp]]: **[[Organisational Politics]]**
 	  background-color:: gray
+	  collapsed:: true
 		- Optional Readings
 			- [The Tech Industry’s Gender-Discrimination Problem _ The New Yorker](G:/My Drive/CBS/KLCM/The Tech Industry’s Gender-Discrimination Problem _ The New Yorker.pdf)
 		- Class Notes
 			- ((65eb0a7d-8aaf-41da-8072-00c000eec229))
-				- e1
+				- My point
+					- Misalignment between employees POV and Founders
+					- Founders see it as a machine
+					- Employees see it as a part of life
+					- Hiring posts was misalinged witht he real perception
 					- Cons/Pros of the argument
 					  background-color:: yellow
-				- e2
+				- CEO is doing not his job
+					- He should not do HR job
+					- He then would not fall as responsible if there is an HR doing it.
+						- If there is a diversity issue, it will go to HR first.
+						-
 					- Cons/Pros of the argument
 					  background-color:: yellow
-				- e3
+				- Shutting down the council was a big mistake
+					- Even though yes, company does not have to a viewpoint on every political issue
 					- Cons/Pros of the argument
 					  background-color:: yellow
+				- They were not consistant in their appraoch
+					- At first they apologized, btu they fired the council and etc. - took steps back.
+					- Cons/Pros of the argument
+					  background-color:: yellow
+				- Have a clear comminication vision #verified
+					- that reflects reality
+				- DEI is the way to solve this problem #verified
+					- We want to go back to the situation where people got along
+				- THere is a lack of socailization. Its a remote company #verified
+				- Let communities of practice solve problems #verified
+				-
+					-
+			- What were the core issues?
+			- Diagnosis
+				- What was the root causes?
+					- Its a change management issue
+					- The employees looks are unaligned with how company sees
+						- hiring
+				- Provide solution
+					- Minimized the cost and maximizes util
+				- Problems
+					-
+				- Recomendations
+					- Decide on a clear idetityity
+						-
+				-
 		- Case
 		  collapsed:: true
 			- [mac](/Users/twenythree/Library/CloudStorage/GoogleDrive-ninjatxgaming@gmail.com/My Drive/CBS/KLCM/Cases 2/Trouble at Basecamp.pdf)
@@ -843,6 +894,7 @@
 					- noted the co-founders’ accountability
 				- > The silence in the background is what racism and white supremacy does. It creates that atmosphere that feels suffocating to people. It doesn’t require active malice
 				-
+		-
 		- Random
 			- Its not possible to not have politics in your company.
 			- You can't eliminate politics in an organisation
@@ -916,7 +968,6 @@
 		- Its actually not possible for leaders to know everything, its just one person in a big company.
 		-
 - **Exam**
-  collapsed:: true
 	- Dont being saying "There are many different ways to define Leaderhsip"...
 	- Choose the part of the case that I like
 	- Example
@@ -941,5 +992,6 @@
 		- Explain what their main point was
 		- Explain why chose it (why its relevant)
 		- *Put bibliography at the end*
-		-
+	- Do a diagnosis and solution
+	- Pros and Cons of arguments
 -

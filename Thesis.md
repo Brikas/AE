@@ -9,8 +9,10 @@
 	- [WIP Google Doc OLD](https://docs.google.com/document/d/1MrrvSvmVxHmMBS78Jw_h9JOXAhqkYpm9N8kF_gWiXLo/edit?fbclid=IwAR3_r96rBO2t0soGO8bu-5-AMkeyzPF8Lu6vbZnGQwkAV_L8F78X2qdsewg).
 	- Tags
 		- #personas
+	- [[4Airidas]]
 - For Elias (last updated: [[2024-03-14]])
   background-color:: blue
+  collapsed:: true
 	- From ((65eace94-0998-4aac-8934-5f317c07b37c))
 		- {{embed ((65f354a5-9909-4d53-b940-a214a0ae479c))}}
 - Intermediary To Do's
@@ -88,10 +90,11 @@
 			- Personas
 			- Market Research
 			-
+	- Check out
+		- {{embed ((65ff1597-4915-4727-b66f-3e9957a087c9))}}
 - **BEEF**
   background-color:: blue
   id:: 65a83ceb-a2e2-48ae-aacd-3634889b159f
-  collapsed:: true
 	- About our Topic
 	  collapsed:: true
 		- Aim to understand [[consumer preferences]].
@@ -162,6 +165,7 @@
 	  collapsed:: true
 		- Quantitative
 		  background-color:: green
+		  collapsed:: true
 			- ✔ [[Kano Model Mapping]]
 			- Observational Studies
 			- Surveys
@@ -179,6 +183,7 @@
 			  id:: 65ea16cc-9983-47e6-acf8-0f71129e18c0
 		- Qualitative
 		  background-color:: green
+		  collapsed:: true
 			- DOING [[Focus Groups]]
 			- LATER Delphi Method
 			- *Rejected*
@@ -186,6 +191,7 @@
 				- Interviews
 		- Unknown / Ideas
 		  background-color:: green
+		  collapsed:: true
 			- *Random*
 			  background-color:: green
 				- https://conjointly.com/how-it-works/#step-4
@@ -221,6 +227,7 @@
 		- Alias
 			- Characteristic Endowment
 		- {{query [[personas]]}}
+		  collapsed:: true
 		- Random
 		  collapsed:: true
 			- ((65eccdc4-581a-4241-8180-db01fdd101c1))
@@ -263,6 +270,8 @@
 				- collapsed:: true
 				  > Compared to the original experiment, one benefit to the AI setting is that I can do a clean within-subject experiment because the AI does not “remember” having seen the previous prompt. In contrast, in a real experiment, a subject presented with the same scenario multiple times might get wise to the nature of the manipulation and alter results to make themselves more consistent.
 					- From ((65ecc4f4-b5af-4f3b-b286-3b8787ec422e))
+	- ◽ Benchmarking
+	  id:: 65ff2655-e2ac-4286-8215-d431240c1e7f
 	- [Assets/Resources](((65ecc30b-520a-4735-9af1-f85986f164b8)))
 	- Data/Benchmarks (Ways)
 	  collapsed:: true
@@ -323,7 +332,6 @@
 		  collapsed:: true
 			- Manual assessment of output based on our intuition
 			- Or from professional marketing professionals
-		-
 		- ideas
 			- https://www.failory.com/failures
 			- Any org. already know characteristics of their users/consumers
@@ -339,7 +347,7 @@
 	- Academic Papers
 	  id:: 65eace94-0998-4aac-8934-5f317c07b37c
 	  background-color:: yellow
-		- 🔸 LLMs as Simulated Economic Agents: Homo Silicus (Horton, 2023) #paper
+		- ✔ 🔸 LLMs as Simulated Economic Agents: Homo Silicus (Horton, 2023) #paper
 		  id:: 65ecc4f4-b5af-4f3b-b286-3b8787ec422e
 		  collapsed:: true
 			- [Online src](https://john-joseph-horton.com/papers/llm_ask.pdf) - [Horton 2023 PDF](G:/My Drive/CBS/Thesis/Horton 2023.pdf) - [Mac PDF](/Users/twenythree/Library/CloudStorage/GoogleDrive-ninjatxgaming@gmail.com/My Drive/CBS/Thesis/Horton 2023.pdf)
@@ -392,7 +400,7 @@
 				  > But even if the corpus is carefully curated, the worry is that homo silicus is informed not by “humans in general” but the **highly selected pool of** “humans creating public writing, and then selected again what they choose to say.”
 				- *And economists have historically taken a dim view of the economic content of __mere statements rather than behaviors__. This would seem to be a damning critique of a model literally trained on statements.*
 				  id:: 65eccb87-3511-43d9-8ccc-4a5af9217bba
-		- 🔸 [Using GPT for Market Research.pdf](G:\My Drive\CBS\Thesis\Using GPT for Market Research.pdf)
+		- ✔ 🔸 [Using GPT for Market Research.pdf](G:\My Drive\CBS\Thesis\Using GPT for Market Research.pdf)
 		  id:: 65af92bb-da88-45b8-90af-ca5770651146
 		  collapsed:: true
 			- [Academia link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4395751) - cited by 50+ in 2023
@@ -403,33 +411,70 @@
 				- economic theory
 				- well-documented patterns of consumer behavior
 					- including downward-sloping demand curves and state dependence
-		- Karolina's Thesis
-		  collapsed:: true
-			- [PDF File](G:/My Drive/CBS/Thesis/1645570_Master_Thesis_Lambru_Kaszkowiak_Khalid_2023.pdf)
-			- [Online Link](https://research.cbs.dk/en/studentProjects/improving-user-satisfaction-in-university-affiliated-incubators-a)
-			- Methodology
-				- [[Kano Model Mapping]]
-				  collapsed:: true
-					- Applying the Kano model to the quantitative data collected from the survey to **categorize different types of customer needs** and prioritize these factors in the design of startup incubators. Develop an instrument based on Excel formula to assign attributes and calculate Satisfaction Score and Dissatisfaction Score.
-					- [[Kano Model Mapping]] #embed-node
-					  collapsed:: true
-						- {{embed [[Kano Model Mapping]]}}
-				-
-			-
-		- TODO Using Large Language Models to Simulate Multiple Humans. Aher, Arriaga and Kalai (2022), #paper
+		- ✔ Using Large Language Models to Simulate Multiple Humans. Aher, Arriaga and Kalai (2023), #paper
 		  id:: 65eace94-9e44-44c1-bc48-47651188e3c2
+		  collapsed:: true
 			- [PDF](G:/My Drive/CBS/Thesis/Using Large Language Models to Simulate Multiple Humans.pdf)
 			- Refs
+			  collapsed:: true
 				- From ((65af92bb-da88-45b8-90af-ca5770651146))
 					- Aher et al. (2022) simulate psychological studies including the well-known Milgrom shock experiment.
 				- Cited by 150
+			- simulating a representative **sample** of participants
+			- Classic **economic**, **psycholinguistic**, and **social psychology** experiments
+				- Ultimatum Game
+				- Garden Path Sentences
+				- Milgram Shock Experiment
+				- Wisdom of Crowds
+			- 🔸 Classification vs Simmulation prompts
+				- Class
+				  collapsed:: true
+					- https://img001.prntscr.com/file/img001/ij-rEQIdSRCcjggmFfPIKw.png
+				- Sim
+					- https://img001.prntscr.com/file/img001/P65OOavnQ42AqEnLD0ZPPg.png
+					- Can be used to simulate the responses of multiple different individuals by varying the name.
+			- Prompt engineering
+				- 🔸 Chain-of-thoughts
+					- Thinking out loud.
+			- Data
+				- Salary
+				- Age
+				- etc.
+				- Name
+					- from a pool
+			- Validity ❓
+			- Random
+				- ![](https://img001.prntscr.com/file/img001/I9M_fvh4Qamm0pwcOstuow.png)
+				-
+		- ✔ Can AI language models replace human participants? (Dillion et al., 2023) #paper
+		  collapsed:: true
+			- Meta
+			  collapsed:: true
+				- [PDF](G:/My Drive/CBS/Thesis/Can AI language models replace human participants.pdf)
+				- [lnk](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(23)00098-0)
+				- 110 citations
+			- https://nikett.github.io/gpt-as-participant/
+			- synthetic AI participants
+				- https://www.syntheticusers.com/
+			- Topics
+				- [[Self-refinement]]
+					- https://selfrefine.info/
+			- The study
+				- > We investigated the correspondence between average human judgments and GPT-3.5 (text-davinci-003)’s judgments on 464 moral scenarios from five published papers [5–9].
+					- Perhaps we can replicate with out own data?
+					- Data for replication https://nikett.github.io/gpt-as-participant/
+			- Behavior vs language.
+				- LLM are solution for language.
+				- Some questions are better studied by behavior, some by language
+			-
+			-
+		- ✔ 🔹 [[InCharacter: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews (Wang & Xiao et.al, 2023)]] #paper #methodology
+		  collapsed:: true
+			- {{embed [[InCharacter: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews (Wang & Xiao et.al, 2023)]]}}
 		- Mapped (sorted by citations)
 		  id:: 65f354a5-9909-4d53-b940-a214a0ae479c
 		  collapsed:: true
-			- Can AI language models replace human participants? (2023)
-			  collapsed:: true
-				- [lnk](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(23)00098-0)
-				- 110 citations
+			- ((65fc9d59-c33c-4085-bac1-ecc5bae87dbc))
 			- AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback (2023)
 			  collapsed:: true
 				- [lnk](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5fc47800ee5b30b8777fdd30abcaaf3b-Abstract-Conference.html)
@@ -502,11 +547,23 @@
 				- [lnk](https://arxiv.org/abs/2311.11081)
 				- 1 cit
 			-
-		-
 		- Irrelevant
 		  background-color:: gray
 		  id:: 65ecdee6-8ddf-4f95-8ee4-3a7d0e370e9a
 		  collapsed:: true
+			- Karolina's Thesis
+			  collapsed:: true
+				- [PDF File](G:/My Drive/CBS/Thesis/1645570_Master_Thesis_Lambru_Kaszkowiak_Khalid_2023.pdf)
+				- [Online Link](https://research.cbs.dk/en/studentProjects/improving-user-satisfaction-in-university-affiliated-incubators-a)
+				- Methodology
+					- [[Kano Model Mapping]]
+					  collapsed:: true
+						- Applying the Kano model to the quantitative data collected from the survey to **categorize different types of customer needs** and prioritize these factors in the design of startup incubators. Develop an instrument based on Excel formula to assign attributes and calculate Satisfaction Score and Dissatisfaction Score.
+						- [[Kano Model Mapping]] #embed-node
+						  collapsed:: true
+							- {{embed [[Kano Model Mapping]]}}
+					-
+				-
 			- 👎 GPT revolution and digital entrepreneurial intentions
 			  id:: 65eace94-5312-4326-88ac-eaee838f67c9
 				- [lnk](https://www.emerald.com/insight/content/doi/10.1108/JEEE-07-2023-0260/full/html)
@@ -516,6 +573,11 @@
 				- [lnk](https://www.amazon.com/Modelling-Simulation-Human-Environment-Interactions-Giabbanelli/dp/3036528083)
 				- ![image.png](../assets/image_1706005062674_0.png){:height 341, :width 733}
 				- .
+	- Companies
+		- 🔸 https://www.syntheticusers.com/
+			- Use Cases
+		- https://osum.com/?s=features
+		  id:: 65ff1597-4915-4727-b66f-3e9957a087c9
 	- Likely Irrelevant
 	  collapsed:: true
 		- [[SimPy]] - discrete event simulation for Python
@@ -595,18 +657,6 @@
 			- Talk to Daniel about this cross-disciplinary thing.
 				- Do we really have to have one audience?
 		- Computer based agency
-- Talks with [[Elias]]
-  background-color:: purple
-  collapsed:: true
-	- New/Relevant stuff {{query (and (or [[new]] [[relevant]] [[discuss]]) (page [[Thesis]]))}}
-	  query-table:: false
-	  id:: 656a5010-c849-4877-a70d-701a1a2945da
-	  query-properties:: [:page :block]
-	  collapsed:: true
-	- Share [lnk](file://G:/My Drive/Random/Loqseq notes/pages)
-	  collapsed:: true
-	  {{query [[share]]}}
-	- {{embed ((65b698ea-4bdc-401d-8852-a1d9a98e016c))}}
 - Links
   background-color:: purple
   collapsed:: true
@@ -634,10 +684,23 @@
 - Less Relevant
   background-color:: blue
   collapsed:: true
+	- Talks with [[Elias]]
+	  background-color:: purple
+	  collapsed:: true
+		- New/Relevant stuff {{query (and (or [[new]] [[relevant]] [[discuss]]) (page [[Thesis]]))}}
+		  query-table:: false
+		  id:: 656a5010-c849-4877-a70d-701a1a2945da
+		  query-properties:: [:page :block]
+		  collapsed:: true
+		- Share [lnk](file://G:/My Drive/Random/Loqseq notes/pages)
+		  collapsed:: true
+		  {{query [[share]]}}
+		- {{embed ((65b698ea-4bdc-401d-8852-a1d9a98e016c))}}
 	- [[CBS Students Thesis]]
 	  background-color:: purple
 	  collapsed:: true
 		- {{embed [[CBS Students Thesis]]}}
 - [[Thesis: Irrelevant]]
+  background-color:: blue
   collapsed:: true
 	- {{embed [[Thesis: Irrelevant]]}}

@@ -121,6 +121,7 @@
 		- **Conclusions**: Anytime you are doing research, you need to identify your assumptions.
 	- Stuff
 		- Parts
+		  collapsed:: true
 			- To Explore,
 				- usually more in a new science
 					- Like at first they observed the stars in cosmos.
@@ -494,6 +495,7 @@
 		  id:: 65e9bdba-b0ab-4133-9b6b-9fbaba222f98
 			-
 - Lecture y
+  collapsed:: true
 	- Survey
 	  id:: 65f1b8ff-f61b-49ff-86db-9177550b042b
 		- Grooves. R. R. et al. 2004 Survey Mehtodology
@@ -571,6 +573,58 @@
 				-
 			- Intention
 			- Outcome
+- Lecture 12: Descriptive Statistics
+	- [06_blaschke_research_methods.pdf](../../assets/06_blaschke_research_methods_1710945916811_0.pdf)
+	- Values to report
+		- *Measures of central tendency*
+			- Mean
+				- Just drop NA values.
+				- Trim - Removes the outliers. 0.1 f.e. means the middle 90% of values.
+			- Median
+			- Range
+				- Sometimes need to be trimmed too
+					- ((65faf324-bc40-42d2-bd24-c0ed8ed5e0c1))
+			- IQR - Interquartile range
+			  id:: 65faf324-bc40-42d2-bd24-c0ed8ed5e0c1
+				- IQR - 75% that lies in the middle
+			- Standard deviation
+				- How much are the values dispersed from the mean.
+				- When we say 1 std. devs., 2 std. devs. etc, it only works if there is standard distribution
+			- Skewness
+				- Or kurtosis
+				  collapsed:: true
+					- `kurtosis(data)`
+						- Flat or pointy kurtosis
+						- ![image.png](../../assets/image_1710945993306_0.png)
+				- `skewness(data)`
+					- `library(moments)`
+				- Positive - majority is to the left
+				- Negative - majority is to the right
+				- 0 means standard normal distribution.
+			- Z-Score
+				- Gives an idea how far away is any value from the mean?
+				- Goes from -3 to +3
+					- Does not have a meaning
+				- Used for percentiles.
+				- It is used in significant values.
+			- Frequency distribution
+		- Covariance
+			- Average cross-product of two variables.
+				- *How to variables vary at the same time?*
+			- `cov()`
+			- *Is a step to the correlation*
+		- Correlation Coeficcient
+			- What does a correlation of `-0.86` mean?
+				- Negative, if one increases, the other increases
+			- p-value tells whether it is significant.
+	- Partial Data
+		- Single partial data
+			- `mean(partial, na.rm = TRUE)``
+			-
+- L13: [[Inferential Statistics]]
+  collapsed:: true
+	- [PDF](G:/My Drive/CBS/RM/07_blaschke_research_methods.pdf)
+	-
 - Exam
   collapsed:: true
 	- Task

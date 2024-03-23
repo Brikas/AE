@@ -1,4 +1,4 @@
-tags:: [[priotitisation]], [[user needs]], [[Product Manager]], [[CTO]], [[Models]], [[Design and Development]]
+tags:: [[priotitisation]], [[user needs]], [[Product Manager]], [[CTO]], [[Models (D)]] , [[Design and Development]]
 
 - Meta
 	- Kano’s Two-Factory Theory-based Questionnaire Development and Survey *(Sauerwein et al., 1996, Saunders et al., 2019)*
