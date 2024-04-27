@@ -1,3 +1,5 @@
+alias:: lead a team
+
 - Related
 	- [[employee evaluation]]
 - Random

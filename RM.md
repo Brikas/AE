@@ -215,7 +215,7 @@
 		- Yes
 		  logseq.order-list-type:: number
 	-
-- Lecture 6.
+- Lecture 6: Cognitive [[Interview]] {{g QL}}
   collapsed:: true
 	- Freelist interviewing
 		- *Deceptively simple method*
@@ -302,7 +302,7 @@
 		- Cocao drink
 		  logseq.order-list-type:: number
 		-
-- Lecture 7
+- Lecture 7: Participant Observation {{g QL}}
   collapsed:: true
 	- Participational observation (Observational research)
 		- Observational spectrum
@@ -387,114 +387,8 @@
 			- **Drug sales**: While Tina's son Ricky provides Tina with a small quantity of crack to sell, Carter resists engaging more deeply in drug sales, fearing the associated risks and potential for violence (pp. 25–26).
 			- **Bin-diving/Dumpster diving**: Searching through dumpsters sometimes yields valuable items that can be used or sold (p. 9).
 			- **Credit from drug dealers**: Tina manages to acquire drugs on 'credit,' implying some trust or arrangement with her suppliers, allowing them to maintain their habit and possibly resell some portion (pp. 12–13).
-- Lecture x
-  collapsed:: true
-	- G1
-		- Concepts
-		  id:: 65e99a56-e540-4b96-8ae6-dc8c5d6c0faa
-		  collapsed:: true
-			- Concepts require definitions.
-				- For example define year cycle (seaons) - is it categorical or madular continuum?
-			- In exam Literally mention "definition" or "define"
-			- Concept abstraction level example
-				- Status - Very abstract
-				- Success - Mid abstract
-				- Age - Low abstract
-			- **Variables** are measurements that are free to stay.
-				- Dependent variable
-				- Independent variable
-			- **Constants** do not vary
-				- f.e. speed of light
-				- Can be variables that are held constant.
-			- *The fact of being observed is a determinant itself.*
-			- You need to be careful what do you view as constant and variable
-		- Measures -
-		  collapsed:: true
-			- Examples
-				- Her **age** is *48 years*
-					- age is concept
-					- 48 years is measure
-				- He *does not* **like anchovies**
-					- like anchovies is concpet
-					- does not is meaure
-			- Types
-				- ...
-				- Ordinal
-					- Choose either with middle point or without middle point
-					- There could also be NA (I didn't eat the pizza at all)
-				- Intervals
-					- Variables whose values indicate points on a continuum without absolute zero point
-						- IQ
-						- Time and dates
-				- Ratio
-				- Dichotomous
-					- Yes or no
-					- True or false
-		- Samples
-			- Probability Sampling
-			  collapsed:: true
-				- Simple random
-				  background-color:: yellow
-					- *I will talk to the first 100 people on the street*
-				- Stratisfied random
-				  background-color:: yellow
-					- Select groups
-						- *f.e.* age group 18-29
-						- *f.e.* region
-						- *f.e.* gender
-					- Then make sure the sample represents same straficiation in the underlying population
-						- So if 40% of all people are men.
-							- Your sample must also contain 40% men.
-							- *ideal, but now always possible*
-				- Clustered random
-				  background-color:: yellow
-					-
-			- Non-probability Sampling
-				- Quotra
-				- Snowball
-				- Availability or convenience
-	- G2
-		- Distributions
-			- Some are normal some are not
-			- If its not, you can't run some statistics on it.
-	- G3
-		- Most business theories are mid-range
-			- [[resource based theory]]
-		- Potential problems
-		  collapsed:: true
-			- Theory-Method Mistmatch
-				- Studying the market and doing a one interview
-			- Correlation does not neccerily mean causation
-				- G1
-				  collapsed:: true
-					- Look at [[Cross-sectional data]]
-						- Independent variable(s) are fixed prior to variations in dependent variable
-							- Fix some variables
-					- Loot at [[Longitudinal data]]
-						- Variations in independent variable(s) precede(s) variation in dependent variable.
-						- a
-							- Repeated cross-section (trend study)
-							- Fixed-sample (panel study)
-							- Event-based (cohort study)
-				- Nonspuriousness
-				- Causal Mechanism
-					- ![image.png](../../assets/image_1709816042802_0.png)
-				- There is no quantitative way to prove causation.
-				- You need quantitative part. #verified
-				- Causal Context
-			- Time Order
-				- Independent Variables have to come before the and dependent variables measurement
-				-
-	- Qualitative Research
-		- [[Content Analysis]]
-			- History
-				- How to spread opinion?
-					- [[Magic Bullet]] vs [[Two step flow]]
-						- *Lazarsfeld’s two-step flow*
-		- Inter-coding reliability > 80% #Thesis
-		  id:: 65e9bdba-b0ab-4133-9b6b-9fbaba222f98
-			-
-- Lecture y
+- Lecture 8: The case study
+- Lecture y - Surveys {{r QT}}
   collapsed:: true
 	- Survey
 	  id:: 65f1b8ff-f61b-49ff-86db-9177550b042b
@@ -573,7 +467,128 @@
 				-
 			- Intention
 			- Outcome
+- Lecture 9: Document and discourse analysis {{r QT}}{{g QL}}
+  id:: 6616f5b4-15f4-4f21-b676-57bec669e81a
+  collapsed:: true
+	- [Lecture 9 - Document and discourse analysis.pptx](C:\Users\Abrikosas\Downloads\Lecture 9 - Document and discourse analysis.pptx)
+	- Workshop 1: Agenda and exercises
+		- [see this](https://cbscanvas.instructure.com/courses/36715/pages/workshop-1-agenda-and-exercises?module_item_id=882319)
+- Lecture 10: Fundamentals 1 – Concepts, measures, samples {{r QT}}
+  collapsed:: true
+	- G1
+		- Concepts
+		  id:: 65e99a56-e540-4b96-8ae6-dc8c5d6c0faa
+		  collapsed:: true
+			- Concepts require definitions.
+				- For example define year cycle (seaons) - is it categorical or madular continuum?
+			- In exam Literally mention "definition" or "define"
+			- Concept abstraction level example
+				- Status - Very abstract
+				- Success - Mid abstract
+				- Age - Low abstract
+			- **Variables** are measurements that are free to stay.
+				- Dependent variable
+				- Independent variable
+			- **Constants** do not vary
+				- f.e. speed of light
+				- Can be variables that are held constant.
+			- *The fact of being observed is a determinant itself.*
+			- You need to be careful what do you view as constant and variable
+		- Measures -
+		  collapsed:: true
+			- Examples
+				- Her **age** is *48 years*
+					- age is concept
+					- 48 years is measure
+				- He *does not* **like anchovies**
+					- like anchovies is concpet
+					- does not is meaure
+			- Types
+				- ...
+				- Ordinal
+					- Choose either with middle point or without middle point
+					- There could also be NA (I didn't eat the pizza at all)
+				- Intervals
+					- Variables whose values indicate points on a continuum without absolute zero point
+						- IQ
+						- Time and dates
+				- Ratio
+				- Dichotomous
+					- Yes or no
+					- True or false
+		- Samples
+			- Probability Sampling
+			  collapsed:: true
+				- Simple random
+				  background-color:: yellow
+					- *I will talk to the first 100 people on the street*
+				- Stratisfied random
+				  background-color:: yellow
+					- Select groups
+						- *f.e.* age group 18-29
+						- *f.e.* region
+						- *f.e.* gender
+					- Then make sure the sample represents same straficiation in the underlying population
+						- So if 40% of all people are men.
+							- Your sample must also contain 40% men.
+							- *ideal, but now always possible*
+				- Clustered random
+				  background-color:: yellow
+					-
+			- Non-probability Sampling
+				- Quotra
+				- Snowball
+				- Availability or convenience
+	- G2
+	  collapsed:: true
+		- Distributions
+			- Some are normal some are not
+			- If its not, you can't run some statistics on it.
+	- G3
+	  collapsed:: true
+		- Most business theories are mid-range
+			- [[resource based theory]]
+		- Potential problems
+			- Theory-Method Mistmatch
+				- Studying the market and doing a one interview
+			- Correlation does not neccerily mean causation
+				- G1
+				  collapsed:: true
+					- Look at [[Cross-sectional data]]
+						- Independent variable(s) are fixed prior to variations in dependent variable
+							- Fix some variables
+					- Loot at [[Longitudinal data]]
+						- Variations in independent variable(s) precede(s) variation in dependent variable.
+						- a
+							- Repeated cross-section (trend study)
+							- Fixed-sample (panel study)
+							- Event-based (cohort study)
+				- Nonspuriousness
+				- Causal Mechanism
+					- ![image.png](../../assets/image_1709816042802_0.png)
+				- There is no quantitative way to prove causation.
+				- You need quantitative part. #verified
+				- Causal Context
+			- Time Order
+				- Independent Variables have to come before the and dependent variables measurement
+				-
+	- Qualitative Research
+		- [[Content Analysis]]
+			- History
+				- How to spread opinion?
+					- [[Magic Bullet]] vs [[Two step flow]]
+						- *Lazarsfeld’s two-step flow*
+		- Inter-coding reliability > 80% #Thesis
+		  id:: 65e9bdba-b0ab-4133-9b6b-9fbaba222f98
+			-
+- Exercise: Fundamentals 2 – Generalizability, design, causation {{r QT}}
+- Lecture 11: Data collection
+  collapsed:: true
+	- lego annual report
+	- most frequently used words in sections
+	-
 - Lecture 12: Descriptive Statistics
+  collapsed:: true
 	- [06_blaschke_research_methods.pdf](../../assets/06_blaschke_research_methods_1710945916811_0.pdf)
 	- Values to report
 		- *Measures of central tendency*
@@ -615,7 +630,7 @@
 			- *Is a step to the correlation*
 		- Correlation Coeficcient
 			- What does a correlation of `-0.86` mean?
-				- Negative, if one increases, the other increases
+				- Negative, if one increases, the other decreases
 			- p-value tells whether it is significant.
 	- Partial Data
 		- Single partial data
@@ -624,49 +639,121 @@
 - L13: [[Inferential Statistics]]
   collapsed:: true
 	- [PDF](G:/My Drive/CBS/RM/07_blaschke_research_methods.pdf)
+	- One-way [[ANOVA Test]]
+	- Factorial analysis
+	- Research hypotheses and statistical hypotheses
+	- [[Null hypothesis]] and alternative hypotheses
+	- Type 1 and type 2 errors #[[Error types]]
+	- The [[p value]]
 	-
-- Exam
+- LX: Networks Workshop
   collapsed:: true
-	- Task
-		- [Canvas Link](https://cbscanvas.instructure.com/courses/36715/pages/exam-description-and-instructions?module_item_id=860634)
-		- a problem within the range of themes you deal with in the DM program
-			- an empirical problem
-		- a) demonstrate able to *(execute a research inquiry)*
-			- define a problem
-			- formulate a clear and relevant research question
-			- collect and analyze data
-				- using a method suitable for the study undertaken
-		- b) reflect on your research process
-			- specific emphasis on
-				- your methodological choices
-				- limitation of your approach
-		- Sections
-		  collapsed:: true
-			- Problem statement and research questions
-			  background-color:: blue
-			- Description and elaboration on chosen methodological approach
-			  background-color:: blue
-				- Describe the chosen methodological approach
-				- explain how it is used.
-			- Data collection and analysis
-			  background-color:: blue
-				- Data count
-					- Just enough
-						- qualitative
-							- (e.g., do one interview and analyze it)
-						- quantitative methodology
-							- pick one of the ready-made data sets that we provide
-			- Reflection on and discussion of the methodological approach
-			  background-color:: blue
-				- in comparison with other methodological approaches.
-	- Examples
-		- [Victors Exam.pdf](G:/My Drive/CBS/RM/QnQ-CS-Research-Paper.pdf)
-			- *A Netnographic Study on the Expectations of an Online Community for the Future of its Digital Marketplace as a Result of a New Game Adaptation*
-			- [[Netnographic Study]]
-			- [[Deductive approach]] - [[deduction]]
+	- Gephi - a GUI tool for graphs.
+- Reading - Chapter 5 ✔
+  id:: 662572d9-d509-4049-8593-f627b0d0def7
+	- [Research_Methods_for_Business_Students_-_Chapter_5_Formulating_the_research_design.pdf](G:/My Drive/CBS/RM/Research_Methods_for_Business_Students_-_Chapter_5_Formulating_the_research_design.pdf)
+	- inductive approach - data are used to develop theory.
+	- [[Quantitative]]
+	  background-color:: green
+	  id:: 66269388-b5cc-4ea6-a6f1-ccf15fdbb583
+	  collapsed:: true
+		- Quantitative research design
+			- **Research philosophy**
+			  id:: 6626939f-92b4-4915-952e-65f6013f28bc
+				- ❓ associated with [[positivism]]
+				- ‘qualitative’ numbers
+					- data based on opinions
+					- some survey research, while conducted quantitatively, may be seen to fit partly within an **interpretivist philosophy**
+			- **Approach to theory development**
+			  id:: 662693a3-4a56-4bb9-8809-74b24a3dedb5
+				- usually associated with a **deductive approach**
+				- may also incorporate an **inductive approach**
+			- **Characteristics**
+				- range of statistical and graphical techniques
+				- often incorporates **controls** to ensure the **validity of data**
+				- Because data are collected in a standard manner, it is important to ensure that questions are expressed clearly so they are understood in the same way by each participant.
+				- The **researcher is seen as independent** from those being researched
+			- **Research strategies**
+			  id:: 662694c9-159b-4ecc-bffc-ec3e24c5a404
+				- experimental and survey research strategies
+					- which we discuss in Section 5.5
+				- is normally conducted through the use of **questionnaires** or **structured interviews** or, possibly, **structured observation**
 			-
-- Qestions
-	- The CBS Lab thing. How is it called? Is it free?
-	- For the provided data
-		- Will you provide the definitions of fields?
-			- link: ((65e99a56-e540-4b96-8ae6-dc8c5d6c0faa))
+	- [[Qualitative]]
+	  background-color:: green
+	  collapsed:: true
+		- **mono method quantitative study**
+			- a single data collection technique, such as a questionnaire, and corresponding quantitative analytical procedure
+		- **multi-method quantitative study**
+			- more than one quantitative data collection technique and corresponding analytical procedure
+		- Qualitative research design
+			- **Research philosophy**
+				- Qualitative research is often associated with an **interpretive philosophy**
+			- **Approach to theory development**
+				- Many varieties of qualitative research commence with an inductive approach
+				- some qualitative research strategies start with a deductive approach
+				- In practice, much qualitative research uses an **abductive approach** to theory development where inductive inferences are developed and deductive ones are tested iteratively throughout the research
+			- **Characteristics**
+				- The success of the researcher’s role is dependent not only on gaining physical access to participants but also building rapport and demonstrating sensitivity to gain cognitive access to their data.
+	- [[Mixed methods]] research design
+	  background-color:: green
+	  id:: 662691ca-cb8f-4f03-b1ab-139ec2b1e083
+		- **Research philosophy**
+		  id:: 6626973e-cdd0-45fa-a0c3-fb996c688c4c
+			- Pragmatism
+		- **Approach to theory development**
+			- A mixed methods research design may use a deductive, inductive or abductive approach to theory development.
+		- **Characteristics**
+		  collapsed:: true
+			- Ways of combinations
+				- **Concurrent mixed methods research**
+					- separate use of quantitative and qualitative methods within a **single phase** of data collection and analysis
+					- concurrent triangulation design
+				- **Sequential mixed methods research**
+					- more than one phase of data collection and analysis
+					- In this design, the researcher will follow the use of one method with another in order to expand or elaborate on the initial set of findings.
+						- **sequential exploratory research design** (qualitative followed by quantitative)
+						  id:: 662699ff-77fd-4894-aabf-52a57dec5962
+					- **partially integrated mixed methods research**
+					- **fully integrated mixed methods research**
+						- (design, data collection and analysis, interpretation and presentation of the research),
+				- **‘quantitised’** or **‘qualitised’**
+					- ‘quantitised’
+					  id:: 66269c4f-bd6a-4ddc-9b09-e54ee5221762
+						- (e.g. specific events in the data are counted as frequencies and numerically coded for statistical analysis)
+				- **dominant** - **supportive** role
+				- **Embedded mixed methods research**
+				  id:: 66269cb9-c5a1-41ef-aced-71cea2da5c03
+					- 🔸 f.e. some questions within a questionnaire require a qualitative response
+		- **Reasons** for using a mixed methods design
+		  collapsed:: true
+			- Initiation
+			- Facilitation
+				- one method may lead to the discovery of new insights which inform and are followed up through the use of the other method
+			- Complementarity
+				- may allow meanings and findings to be elaborated, enhanced, clarified, confirmed, illustrated or linked
+			- Interpretation
+				- One method (e.g. qualitative) may be used to help to explain relationships between variables emerging from the other (e.g. quantitative)
+			- Generalisability
+			- Diversity
+				- of views
+			- 🔸 Problem solving
+				- Use of an alternative method may help when the initial method reveals unexplainable results or insufficient data
+			- Focus
+				-
+			- Triangulation
+			- Confidence
+- [[RM Exam]]
+	- {{embed [[RM Exam]]}}
+- Irre
+  collapsed:: true
+	- Qestions
+		- The CBS Lab thing. How is it called? Is it free?
+		- For the provided data
+			- Will you provide the definitions of fields?
+				- link: ((65e99a56-e540-4b96-8ae6-dc8c5d6c0faa))
+	- For thesis
+	  collapsed:: true
+		- Lit rev.
+			- You need to position your thesis among existing research.
+		-

@@ -1,0 +1,93 @@
+- Choices
+	- [[Intuition]] / Fav / Initial
+		- Cases
+			- Analysis: Valve case
+			- Supporting:
+		- Theories
+			- Complexity Leadership Theory
+			- Leaderless organization
+- Qs
+	- Equal split betweeen cases or not?
+	- Do we always need a supporting case?
+	- Do we have to have a reading from each of the ((65ea16ca-ca3d-4e2f-880b-ea6dc27a6b74))?
+	- Change is so abstract
+- Task
+	- [Exam.docx](G:/My Drive/CBS/KLCM/Exam task - Knowledge, Leadership and Change Management S24 ordinary.docx)
+		- analysis of the case (or cases)
+			- best exemplifies interrelated dynamics
+				- of
+					- knowledge
+					- leadership
+					- change
+				- that we have discussed
+		- at least three of the theoretical readings
+			- explain and apply concepts
+		- draw connections and/or comparisons with at least one of the other cases
+		- OG
+			- > Provide an analysis of the case (or cases) from the course that you think best exemplifies the interrelated dynamics of knowledge, leadership, and change that we have discussed. Your essay should explain and apply concepts from at least three of the theoretical readings we have covered in the course, and draw connections and/or comparisons with at least one of the other cases we have analyzed in class.
+	- 3 Readings
+		- Explain what their main point was
+		- Explain why chose it (why its relevant)
+		- *Put bibliography at the end*
+	- 🔹 Random tips from Class
+		- Dont be saying "There are many different ways to define Leaderhsip"...
+		- Choose the part of the case that I like
+		- Don't write in passive voice
+			- Write in first person, active voice.
+			- Don't say *in this paper, it is argued*
+			- Direct statements and short sentences.
+				- Even if it feels childish.
+		- What matters?
+			- The way you frame the argument
+			- The way you engage with the cases
+			- Not the details
+			- Criticising things
+				- Also criticising the class discussions.
+		- How much summary to give?
+			- Not much. A little
+		- How many cases?
+			- Focus and go deep in one case.
+			- The more the cases, the higher the reward, but the more difficult.
+		- Do a diagnosis and solution
+		- Pros and Cons of arguments
+		- Example
+			- Jie liang case
+- Tips from teacher
+	- dont use the word {{r follower}}
+- Verified
+	- Reema and the Accelerator case
+		- Sticky-leaky
+		- RTheory froma accelerator
+		- Different companies, similar problems.
+- The solution does not have to be correct #verified
+	- Its important to understand the problem very well
+- Posibilities
+	- Maybe Valve and UNDP
+		- [[leaderless leadership]]
+- balance
+	- Does not have to be 33/33/33
+		- Could be mostly one and then a bit of others.
+			- " I ahvent talked much about CM, but here are two pragrapsgs. I say there are a lot of elements about CM problems here too".
+- TO get good grade, just replicate what is done in class
+	- Descriptions of case
+		- do not describe the whole case
+			- its uneconomical
+		- either all but super concise
+		- or detail, focus on a detail
+	- Define the context of the org, problem, etc.
+	- Pros cons
+	- Liek define lists of something on the wall
+	- Then have multiple arguments.
+	- Theory case my viewpoint
+	- Tell what you will do . DO it. Then tell what u done (most important things)
+	- Summarizing theory
+		- the theory says this
+		- I like it because it help me understand
+		- I choose it for
+	- Theory
+		- you can go with all leadership ones
+		- but then relate to CM and Knowledge
+	- f.e. (just an example)
+		- 2 paras on each threy
+		- 4 paras for each case
+		- ... (cut off)

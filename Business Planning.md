@@ -142,9 +142,11 @@ alias:: Business plan, Business plans
 	- ◽ **Prototyping**
 	  id:: 65171db1-84f0-4397-b196-2f260fd8eee6
 	  background-color:: gray
+	  collapsed:: true
 		- ◽ **Pretotyping**
 		  id:: 650c3f79-6032-4d72-80e0-9a3e9f0e43dc
 			- 🔸🔸🔸 [Pretotype it Ebook.pdf](../assets/Pretotype_it_v2_1695302205823_0.pdf)
+			  collapsed:: true
 	- ◽ **Customer Profile**
 	  id:: 650ddbb1-0be6-4d7d-aaf0-f6c93d0d5560
 	  background-color:: gray
@@ -266,6 +268,7 @@ alias:: Business plan, Business plans
 		  collapsed:: true
 			- Beachheads know well about the competitors.
 			  id:: 650f078c-f099-488c-b72d-85a90ae4ac5b
+			  collapsed:: true
 				- Since beachheads are desperate about their problem, they probably already know well about the competitors.
 				- Link: ((650c44e1-9f1d-4fc5-88da-ee7b5fe3d8e2))
 			- ((650f0945-e693-423e-b9e0-d6ee36fc2d62))
@@ -740,6 +743,8 @@ alias:: Business plan, Business plans
 			  id:: 650ddc74-63ab-4760-b063-f4ca72ff0d77
 			  collapsed:: true
 			- {{embed ((650dde39-e4d4-4dc4-99bf-d95177a165d6))}}
+			  id:: 650ddb4f-3728-4173-b132-78e0edc58183
+			  collapsed:: true
 			- **Choice of market**
 			  collapsed:: true
 				- Based on proper [segmentation](650de0b6-9e58-4991-803f-810cec8a2de3).

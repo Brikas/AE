@@ -72,9 +72,11 @@
 					- They are developers, they don't want some guy in a suit telling them stuff
 			- Random
 				- Self-organizing teams
-		- **Reading**s
+		- **Readings**
+		  collapsed:: true
 			- Class notes
 			  id:: 65d8948b-0471-4ff9-8ee7-72484f19e497
+			  collapsed:: true
 				- [[Self-organising teams]]
 				  collapsed:: true
 					- Reaction to assembly line stadnardization
@@ -112,13 +114,8 @@
 					-
 			- **Anti-leaders(hip)** in Social Movement Organizations The case of autonomous grassroots groups #[[Leaderless organization]]
 				- [pdf](G:/My Drive/CBS/KLCM/Anti-leaders(hip) in Social Movement Organizations The case of autonomous grassroots groups.pdf)
-				- Related
-					- [[Critical Leadership Studies]]
-				- [[Social Movement Organizations (SMOs)]]
-					- Arab Spring
-					- Occupy movement
-				- Leadership is a relational, socially constructed phenomenon. #[[What is Leadership?]]
-				- Asnwers
+					- [mac PDF](/Users/twenythree/Library/CloudStorage/GoogleDrive-ninjatxgaming@gmail.com/My Drive/CBS/KLCM/Anti-leaders(hip) in Social Movement Organizations The case of autonomous grassroots groups.pdf)
+				- About (Abstract)
 					- How leadership is understood and performed in anarchist SMOs?
 					- How actors...
 						- manage meaning
@@ -128,11 +125,88 @@
 						- (a) **prohibit** individuals from **permanently assuming a leadership** role
 						- (b) **distribute leadership** skills and roles;
 						- (c) **encourage other actors to participate** and take-up these roles in the future.
-			- [Beyond the Holacracy Type.pdf](G:/My Drive/CBS/KLCM/Beyond the Holacracy Type.pdf)
-				- Related
-				  collapsed:: true
-					- [[Zappos]] #-exl
+						- *Meta*
+							- At the part 2
+					- In other words
 					  collapsed:: true
+						- ((6617ed11-45d4-4a4d-bbeb-a15139dcc2d3))
+							- part 3
+						- ((6617ed42-e527-410f-abcd-d601ef892085))
+							- part 4
+				- [[Leadership]] is a relational, socially constructed phenomenon. #[[What is Leadership?]]
+				  collapsed:: true
+					- [[Critical Leadership Studies]]
+						- About
+							- On a very broad level, Fournier and Grey suggest that ‘to be engaged in CMS means [...] to say that there is something wrong with management [...] and that it should be changed’
+							- ‘what is neglected, absent or deficient in mainstream leadership research’ (Collinson, 2011: 181).
+						- Dark-side of leadership
+							- domination
+							- conformity
+							- abuse of power
+							- blind commitment
+							- over-dependence
+							- seduction
+						- leadership defined as a **process**
+						- Four key contributions from CLS
+						  id:: 6617ef3d-ae27-473c-98ad-39223b28daf8
+							- Leadership is a socially constructed process shaped by interaction and negotiation
+							  logseq.order-list-type:: number
+							- leadership is concerned with the ((6617efcd-d04c-468b-ab29-8c180ea5145a)) and reality definition
+							  logseq.order-list-type:: number
+							- recognition that ‘the exercise and experience of power is central to all leadership dynamics’
+							  logseq.order-list-type:: number
+							- ❓ ‘leadership actor’, to expand the study of leadership to encom- pass any individual who ‘expresses ideas through talk or action that others recognise [...] as capa- ble for progressing tasks or problems that [are] important to them’
+							  logseq.order-list-type:: number
+							-
+					- Leadership is primarily concerned with the ‘**management of meaning’** and reality definition (Smircich and Morgan, 1982).
+					  collapsed:: true
+						- {{g Meaning-making}}
+						  id:: 6617efcd-d04c-468b-ab29-8c180ea5145a
+						  collapsed:: true
+							- processes involved in
+								- creting
+								- re-creting
+								- uncovering
+								- maintaining
+								- nurturing
+								- evolving
+							- meaning
+							- that occur when people try to get a **sense of**
+								- what is **important** to provide the **basis for action**
+							- In Other Words
+								- Defining the reality
+									- ‘succeed in attempting to frame and define the reality of others’
+							- (Weick, 1974) Leadership
+								- When engaged in meaning-making (leadership), actors must
+									- name and interpret
+									- explain and justify
+									- generarate points of refference
+									- frame experience
+								- They also
+									- construct interpretations in such a way that they foster commitment from other organizational actors
+									- so that they feel the action is meaningful and important
+								- Finally, attention must be paid to the ways in which organizational members collectively construct **shared meanings** through interaction processes
+								-
+						- {{embed ((6617ef3d-ae27-473c-98ad-39223b28daf8))}}
+					-
+				- Random
+					-
+				- Meaning-making and leadership was performed in the absence of designated individual leaders.
+				  id:: 6617ed11-45d4-4a4d-bbeb-a15139dcc2d3
+				  background-color:: yellow
+				- Challenges
+				  id:: 6617ed42-e527-410f-abcd-d601ef892085
+				  background-color:: yellow
+				- Trivia
+					- [[Social Movement Organizations (SMOs)]]
+						- Arab Spring
+						- Occupy movement
+				- Performance of Leadership
+					-
+			- [Beyond the Holacracy Type.pdf](G:/My Drive/CBS/KLCM/Beyond the Holacracy Type.pdf)
+			  collapsed:: true
+				- Related
+					- [[Zappos]] #-exl
 						- {{query (and [[Zappos]] (page [[KLC]]) (not [[-exl]]))}}
 					- [[Morning Star]] #-exl
 					  collapsed:: true
@@ -154,7 +228,6 @@
 				  collapsed:: true
 					- **Teams are the structure.**
 					  background-color:: blue
-					  collapsed:: true
 						- Within them, individual “roles” are collectively defined and assigned to accomplish the work.
 						- In holacracy, they’re “circles”; in podularity, “pods”; at [[Valve]], “cabals”; and at many companies, simply “teams.”
 						- After Zappos implemented holacracy, 150 departmental units evolved into 500 circles.
@@ -225,11 +298,8 @@
 						-
 				- Issues
 				  background-color:: pink
-				  collapsed:: true
 					- *idk*
-					  collapsed:: true
 						- Hard and uncertain work to determine:
-						  collapsed:: true
 							- what should be done
 							- who should do it
 							- how people will be rewarded across an entire enterprise
@@ -251,8 +321,8 @@
 							- >Zappos’s roughly 1,500 employees made and received 17,624 role assignments (11.7 per employee), or about 195 per day. Given that volume, the company developed Role Marketplace, a tool to quickly post open roles and manage applications, with lead links ultimately deciding who fills the roles. The tool handled almost a quarter of those 17,624 assignments
 						-
 		- Class Notes
+		  collapsed:: true
 			- Redings #embed-node
-			  collapsed:: true
 				- {{embed ((65d8948b-0471-4ff9-8ee7-72484f19e497))}}
 			- Starting the case with an opinion - that starts a discussion.
 			- Introducting the case
@@ -329,8 +399,12 @@
 				-
 		- **Case**
 		  collapsed:: true
+			- Actually they were a one... pony they didnøt innovate that much  #verified
+				- They jsut made one game
+				- Also innovation i hard
 			- Meta
 				- [Opening the Valve- From Software to Hardware (A).pdf](G:/My Drive/CBS/KLCM/Cases 2/Opening the Valve- From Software to Hardware (A).pdf)
+					- [Mac PDF](/Users/twenythree/Library/CloudStorage/GoogleDrive-ninjatxgaming@gmail.com/My Drive/CBS/KLCM/Cases 2/Opening the Valve- From Software to Hardware (A).pdf)
 				- Case Prep Questions:
 					- Why has Valve been so successful?
 					  id:: 65c51889-187d-4a52-baf4-443b38bbad2f
@@ -346,7 +420,6 @@
 						- **Question**: Should they keep hiring [[T-shaped employees]]?
 						-
 				- ((65c3e266-73af-459e-80ab-29d86ac30e43))
-				  collapsed:: true
 					- ((65c3e266-98d0-49db-84fb-fb3e7355b594))
 						- {{embed ((65c51ac3-1098-4d60-b200-24a50c2ae041))}}
 						- {{embed ((65c51c44-08b5-4f9b-8262-47777f20ad45))}}
@@ -370,7 +443,6 @@
 					- Valve stack-ranked its employees - but all ranking was done by peers.
 					  collapsed:: true
 						- Detailed
-						  collapsed:: true
 							- > Employees were first ranked internally within cabals by those with whom they chose to work, based on their technical ability, productivity, contribution to the operation of the group, and the successful development of the resulting product. The cabal peer rankings were then aggregated and calibrated by committees of peers across cabals to produce a company-wide ranking upon which compensation was based.
 					- From theory
 						- {{embed ((65c53b4f-1c40-4c5e-9a96-8bee03b1522b))}}
@@ -409,7 +481,10 @@
 	  background-color:: gray
 	  collapsed:: true
 		- Random
+		  collapsed:: true
 			- Transparancy
+			- Maybe try to identify adaptive spaces.
+				- MAybe the curtain alowed an adaptive space
 		- Ethan S. Bernstein (2012) “The [[Transparency Paradox]]: A Role for Privacy in Organizational Learning and Operational Control, #Transparency
 		  tags:: [[Transparency]], [[privacy]], [[organizational learning]], [[operational control]], organizational performance,
 		  collapsed:: true
@@ -563,6 +638,7 @@
 				- > But one of the things we have observed is that things steadily improve while we are on-site, but as soon as everyone goes home, things slip back to where they were.
 			-
 		- [Jieliang Phonr Home! (B).pdf](G:/My Drive/CBS/KLCM/Cases 2/Jieliang Phonr Home! (B).pdf)
+		  collapsed:: true
 			- They teach to not to how instructed, to win extra performance
 				- But once higher ups are watching, do as instructed
 				- Even though the extra performance would be appreciated by the higher ups (but they don't know that?)
@@ -572,6 +648,7 @@
 	  collapsed:: true
 		- Topics
 		- Reading A
+		  collapsed:: true
 			- [[Diversity]] and Tempered radicals
 			  background-color:: yellow
 				- Diverse organization are more **responsive to the environment** #verified
@@ -612,6 +689,8 @@
 			- Strategic aliance building
 			  background-color:: yellow
 				- [[Pragmatic Networking]]
+		- Recap
+			-
 		- Optional reading
 			- Just read page 1
 	- L5: [[REMA 1000]]: **[[Knowledge management]]**
@@ -815,12 +894,19 @@
 		- Skill of convincing people that you know might **be core**
 		  id:: 65f35a93-8093-46f4-aa7d-991254b43a91
 			- *popular in consultancies*
+		- After notes
+			- interesting cuz its franchise
+			- Sticky licky could also be used for UNDP
+			- Maybe they were making the Workplace as an ((66227749-7be1-49d7-ad75-919007e2082f)) #verified
+			-
 	- L6: [[Basecamp]]: **[[Organisational Politics]]**
 	  background-color:: gray
 	  collapsed:: true
 		- Optional Readings
+		  collapsed:: true
 			- [The Tech Industry’s Gender-Discrimination Problem _ The New Yorker](G:/My Drive/CBS/KLCM/The Tech Industry’s Gender-Discrimination Problem _ The New Yorker.pdf)
 		- Class Notes
+		  collapsed:: true
 			- ((65eb0a7d-8aaf-41da-8072-00c000eec229))
 				- My point
 					- Misalignment between employees POV and Founders
@@ -850,8 +936,6 @@
 					- We want to go back to the situation where people got along
 				- THere is a lack of socailization. Its a remote company #verified
 				- Let communities of practice solve problems #verified
-				-
-					-
 			- What were the core issues?
 			- Diagnosis
 				- What was the root causes?
@@ -898,24 +982,58 @@
 		- Random
 			- Its not possible to not have politics in your company.
 			- You can't eliminate politics in an organisation
+			- Its a good example of bad management #verified
+		-
 		-
 	- L7: [[Apple]]: **[[Ethics]]**
 	  background-color:: gray
-	- L8: [[US Airforce]]:
+		- Its a dillema
+		  collapsed:: true
+			- both actions can be justified
+		-
+	- [[L8: US Airforce]]
+	  background-color:: gray
+		- {{embed [[L8: US Airforce]]}}
+	- [[L9: World Food Program: Complexity Leadership Theory]]
 	  background-color:: gray
 	  collapsed:: true
-		- Example with Soviet submarines and farting herring.
-	- L9: [[World Food Program]]: **[[Complexity Leadership Theory]]**
-	  background-color:: gray
+		- {{embed [[L9: World Food Program: Complexity Leadership Theory]]}}
+		-
+		-
 	- L10: [[UN]]: **[[Complexity Leadership Theory]]** v2.0
 	  background-color:: gray
+	  collapsed:: true
+		- Accelerator
+		- Class notes
+			- What did they do in the Labs?
+				- Collective Inteligence
+				- Weekly meetings with all of the Acceleator labs to discuss findings
+				-
+			- Ethnography
+				- Learning about a culture an writing it down
+			- Crowd-sourcing
+			- Sensemaking
+			- Labs sizes
+				- 3 people, 75000 usd a year total. Pretty cheap.
+			- Con't of Labs
+				- THe level of contribution form each lab depens ont he core parrt of that country department
+				- There is not enough expertise, not in the whole company, but that is available to be isolated and utilized
+				- Time frame
+					- having this as a temporary organization may not be the best choice
+					- Expecially since they are looking fro long term solutions
+			- Accelerators are ((66227749-7be1-49d7-ad75-919007e2082f))s. #verified
+				- Enanbling leadership is in the middle
+			- The case about changing the organization
 - **Main Topics**
+  id:: 65ea16ca-ca3d-4e2f-880b-ea6dc27a6b74
 	- **[[Leadership]]**
 	  background-color:: green
 	- **[[Knowledge]]**
 	  background-color:: green
 	- **[[Change]]**
 	  background-color:: green
+- **Session with Ari and Elias**
+	- Talk abotu what we liked and most and hated the most.
 - **Needs to Learn**
   collapsed:: true
 	- *From Pull*
@@ -950,7 +1068,7 @@
 	- [[What is Leadership?]]
 		- Course also teaches vocabulary to use in describing
 - **Random**
-	- Initial observations about leadeship
+	- Initial observations about leadership
 	  collapsed:: true
 		- When we try to define leadership
 			- We intuitively define what a great leader/leadership is
@@ -967,31 +1085,12 @@
 			- Henry Ford made the car
 		- Its actually not possible for leaders to know everything, its just one person in a big company.
 		-
+-
 - **Exam**
-	- Dont being saying "There are many different ways to define Leaderhsip"...
-	- Choose the part of the case that I like
-	- Example
-		- Jie liang case
-	- Don't write in passive voice
-		- Write in first person, active voice.
-		- Don't say *in this paper, it is argued*
-		- Direct statements and short sentences.
-			- Even if it feels childish.
-	- What matters?
-		- The way you frame the argument
-		- The way you engage with the cases
-		- Not the details
-		- Criticising things
-			- Also criticising the class discussions.
-	- How much summary to give?
-		- Not much. A little
-	- How many cases?
-		- Focus and go deep in one case.
-		- The more the cases, the higher the reward, but the more difficult.
-	- 3 Readings
-		- Explain what their main point was
-		- Explain why chose it (why its relevant)
-		- *Put bibliography at the end*
-	- Do a diagnosis and solution
-	- Pros and Cons of arguments
+  collapsed:: true
+	- {{embed [[KLC Exam]]}}
+- Relational
+	- Information excahnges between epople
+	- Negotiated order
+	- Managers being a part of the organization
 -
